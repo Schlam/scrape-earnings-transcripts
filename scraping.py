@@ -20,10 +20,10 @@ def config_browser():
     
     """
 
-    # Default configuration
+    # Set path to chromedriver, set headless=False
     chrome_config = {
         "executable_path": "/usr/local/bin/chromedriver",
-        "headless": False,
+        "headless": False, # if headless, then no browser is displayed
     }
     
     return Browser('chrome', **chrome_config)
