@@ -46,6 +46,6 @@ An instance of Chrome seperate from any existing chrome instance you might have 
 Once logged in, the process will start to take place! If you're lucky, the script will run its course before the website's bot-detection measures grow skeptical and prompt you to hold down a button for two seconds
 
 
-###### It's worth noting that on many websites, repeated requests for data from the site can possibly lead to an IP ban. 
+###### It's worth noting that on many websites, repeated requests for data from the site can possibly lead to an IP ban.
 
 ###### Be careful-- especially if modifying/debugging the code and making repeated identical requests.

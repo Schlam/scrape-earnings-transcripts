@@ -1,7 +1,7 @@
-from splinter import Browser
-from bs4 import BeautifulSoup as Soup
 import requests
 from time import sleep
+from splinter import Browser
+from bs4 import BeautifulSoup as Soup
 
 
 
