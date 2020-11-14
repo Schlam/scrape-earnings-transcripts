@@ -4,7 +4,7 @@
 
 This repository contains a script, a notebook and a collection of text files.
 
-The notebook shows the steps taken to set up this pipeline, and allows for easier modifications relative to the script itself.
+The notebook shows the steps taken to set up this pipeline, and allows for easier modifications.
 
 This script that can theoretically scrape through the entire collection of earnings call transcripts made available on Seeking Alpha's [earnings](https://seekingalpha.com/earnings/earnings-call-transcripts) page, but in its present state only collects data from the transcripts listed on page 1.
 
@@ -41,7 +41,7 @@ An instance of Chrome seperate from any existing chrome instance you might have 
 **<sub> One might be able to use splinter to automate this process using the ```browser.fill``` method<sub>
 
 
-**Logging in is crucial**, otherwise you'll be prompted to sign in on the page containing the transcript and this will cause the html code our script expects to be different.
+**Logging in is crucial**, otherwise you'll be prompted to sign in on the page containing the transcript and this will cause the html code our script expects to be different. The sign in process can be automated using browser.fill() (see splinter docs.) 
 
 Once logged in, the process will start to take place! If you're lucky, the script will run its course before the website's bot-detection measures grow skeptical and prompt you to hold down a button for two seconds
 
