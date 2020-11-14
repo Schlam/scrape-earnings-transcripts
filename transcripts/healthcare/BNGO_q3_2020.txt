@@ -1,0 +1,24 @@
+Bionano Genomics, Inc. (NASDAQ:BNGO) Q3 2020 Results Conference Call November 12, 2020  4:30 PM ET
+Company Participants
+Ashley Robinson - IR
+Dr. Erik Holmlin - CEO
+Chris Stewart - CFO
+Conference Call Participants
+Kevin DeGeeter - Oppenheimer
+Jeffrey Cohen - Ladenburg Thalmann
+Scott Henry - ROTH Capital
+Operator
+Greetings. And welcome to Bionano Genomics Incorporated Third Quarter 2020 Conference Call. At this time, all participants are in a listen-only mode. A question-and-answer session will follow the formal presentation. [Operator Instructions] As a reminder, this conference is being recorded.
+I would now like to turn the conference over to your host, Ashley Robinson with Investor Relations. Thank you. You may proceed.
+Ashley Robinson
+Thank you, Otanya, and good afternoon, everyone. Welcome to the Bionano Genomics third quarter financial results conference call. Leading the call today is Dr. Erik Holmlin, CEO; and he is joined by Chris Stewart, CFO of Bionano.
+After market closed today, Bionano issued a press release announcing its financial results for the third quarter 2020. A copy of the release can be found on the Investor Relations page of the Company’s website.
+Before we begin, I would like to remind everyone that certain statements made during this conference call may be forward-looking, including statements about the Company’s strategic and commercialization plans, adoption of the Saphyr system, the advantages of the Saphyr system over current technologies, and the Company’s expectations regarding timing and content of study results and anticipated benefits of these studies in driving adoption of Saphyr.
+Such forward-looking statements are based upon current expectations and the results contemplated in these statements may not be realized. Actual results may differ materially from such statements due to a number of factors and risks, some of which are identified in the Company’s press release and its other reports filed with the SEC. These forward-looking statements are based on information available to Bionano today. And the Company assumes no obligation to update statements as circumstances change.
+An audio recording and webcast replay for today’s call will also be available online in the Investors section of the Company’s website. And for the benefit of those who may be listening in to the replay or archived webcast, this call is held and recorded on November 12, 2020.
+With that, I’ll turn the call over to Erik Holmlin. Erik?
+Dr. Erik Holmlin
+Thank you, Ashley, and good afternoon, everybody.
+Let me begin by saying that we are really pleased with how the third quarter came together. Most of our commercial indicators grew over the prior quarter as we saw significant momentum returning to the business as more and more geographies opened up with easing of COVID-based restrictions. We saw significant progress in key areas of market development, including presentation and publication of evidence in support of Saphyr as a potential replacement for traditional cytogenetics methods.
+We transformed our leadership team with the addition of two key executives Dr. Alka Chaubey, who is our first Chief Medical Officer. Alka joined us from PerkinElmer, where she was the head of cytogenetics for PerkinElmer Genomics and Vanadis. And Chris Stewart, our Chief Financial Officer, who previously worked at Tesla, and has had a successful career in the tech and semiconductor industries.
+Finally, we acquired the CLIA diagnostic services business Lineagen in a stock-based transaction. The acquisition has the potential to expand our commercial services offering to customers who need CLIA-based data services. It has the potential to grow total revenues through sales of Lineagen’s proprietary testing services for pediatric neurodevelopmental disorders, and it has the potential to provide critical strategic ingredients to outline the path for other CLIA labs to obtain payment for services on Saphyr from third-party payers, including insurance companies and governments.

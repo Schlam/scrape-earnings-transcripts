@@ -1,0 +1,31 @@
+Applied Materials, Inc. (NASDAQ:AMAT) Q4 2020 Earnings Conference Call November 12, 2020  4:30 PM ET
+Company Participants
+Michael Sullivan – Corporate Vice President
+Gary Dickerson – President and Chief Executive Officer
+Dan Durn – Chief Financial Officer
+Conference Call Participants
+C.J. Muse – Evercore
+John Pitzer – Credit Suisse
+Toshiya Hari – Goldman Sachs
+Atif Malik – Citi
+Krish Sankar – Cowen and Company
+Timothy Arcuri – UBS
+Harlan Sur – JP Morgan
+Quinn Bolton – Needham
+Joe Quatrochi – Wells Fargo
+Operator
+Welcome to the Applied Materials earnings conference call. During the presentation, all participants will be in a listen-only mode. Afterwards, you will be invited to participate in a question-and-answer session.
+I would now like to turn the conference over to Michael Sullivan, Corporate Vice President. Please go ahead, sir.
+Michael Sullivan
+Good afternoon, everyone. And thank you for joining Applied’s Fourth Quarter of Fiscal 2020 Earnings Call. Joining me are Gary Dickerson, our President and CEO; and Dan Durn, our Chief Financial Officer. Before we begin, I’d like to remind you that today’s call contains forward-looking statements which are subject to risks and uncertainties that could cause our actual results to differ. Information concerning the risks and uncertainties is contained in Applied’s most recent Form 10-Q and 8-K filings with the SEC.
+Today’s call also includes non-GAAP financial measures. Reconciliations to GAAP measures are
+found in today’s earnings press release and in our quarterly earnings materials, which are available on the IR page of our website at appliedmaterials.com.
+And now, I’d like to turn the call over to Gary Dickerson.
+Gary Dickerson
+Thanks, Mike. I am very pleased to report that Applied Materials delivered record revenue in our fourth fiscal quarter and earnings hit an annualized run-rate of $5 per share for the first time. For the fiscal year, we grew revenues 18% and earnings 37% while making significant, strategic investments in new technologies and products to address the industry’s highest value problems and position the company for sustained, long-term success.
+These results are all the more impressive considering the unprecedented disruptions we’ve navigated this year. I really want to thank all our employees, suppliers and partners for their resilience and adaptability. Our teams have switched to new ways of working, delivered on our commitments to customers and investors, and kept our technology and product development on track.
+While our actions to date are driven by a need to protect the health and safety of our employees while keeping our company strong, I am very excited about the long-term benefits of working in new ways, especially remote support and R&D.
+In today’s call, I’ll begin by sharing our current view of the market environment. Then, as this is the end of our fiscal year, I’ll highlight some of our major accomplishments in 2020, before describing the growth drivers and inflections that will shape our markets over the next several years. I’ll conclude by outlining our strategy and investments that will drive Applied’s long-term profitable growth.
+As we adapt to the challenges created by COVID-19 and prepare for the post-pandemic era, we are seeing fundamental changes in many areas of our lives and the world is depending on semiconductors more than ever. Investments in IT and communications infrastructure, combined with the accelerated digital transformation of companies and the economy as a whole, are driving very robust semiconductor and wafer fab equipment demand.
+In foundry-logic, we see leading-edge customers building out their fabs and aggressively driving
+advanced R&D. This gives us confidence that current investment levels are sustainable into 2021 and beyond.

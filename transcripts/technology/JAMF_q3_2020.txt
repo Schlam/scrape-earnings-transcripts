@@ -1,0 +1,30 @@
+Jamf Holding Corp. (NASDAQ:JAMF) Q3 2020 Earnings Conference Call November 12, 2020  4:30 PM ET
+Company Participants
+Jennifer Gaumond - IR
+Dean Hager - CEO
+Jill Putman - CFO
+Conference Call Participants
+Sterling Auty - JPMorgan
+Bhavan Suri - William Blair
+Brad Sills - Bank of America Securities
+Raimo Lenschow - Barclays
+Matt Hedberg - RBC Capital Markets
+Gregg Moskowitz - Mizuho
+David Hynes - Canaccord
+Pat Walravens - JMP Securities
+Rob Owens - Piper Sandler
+Operator
+Good day, ladies and gentlemen, and thank you for standing by. Welcome to the Third Quarter 2020 Jamf Earnings Conference Call.
+At this time, I would like to turn the conference over to Ms. Jennifer Gaumond. Ma'am, you may begin.
+Jennifer Gaumond
+Good afternoon and thank you for joining us on today's conference call to discuss Jamf's third quarter 2020 financial results. With me on today's call are Dean Hager, Jamf's Chief Executive Officer; and Jill Putman, the company's Chief Financial Officer.
+Before we begin, I would like to remind you that shortly after the market closed today, Jamf issued a press release announcing its third quarter 2020 financial results. Additionally we published an updated investor presentation. You may access the press release and presentation on the Investor Relations section of jamf.com.
+Today's discussion may include forward-looking statements, please refer to our most recently filed quarterly report on Form 10-Q and our IPO prospectus dated July 21, 2020, where you will see a discussion of factors that could cause the company's actual results to differ materially from these statements. I would also like to remind you that during the call, we will discuss some non-GAAP measures related to Jamf's performance. You can find the reconciliation of those measures to the nearest comparable GAAP measures in our quarterly financial statements.
+To ensure we can address as many analyst questions as possible during the call, we ask that you please limit your questions to one initial question and one follow-up.
+Now, I'd like to turn the call over to Dean Hager. Dean?
+Dean Hager
+Thank you, Jennifer, and thank you, everyone, for joining us on our third quarter earnings call.
+For our call today, I will share highlights from the quarter and then provide an update about the exciting momentum in our business. I'll finish with a recap of our annual user conference before turning it over to Jill to review our third quarter financials.
+While a challenging macroeconomic environment persists, the tailwinds of telehealth, distance learning and remote work in the third quarter offset economic headwind and drove strong Jamf sales growth and customer acquisition.
+Total revenue in the third quarter grew 29% year-over-year to $70.4 million, driven by recurring revenue growth of 40% year-over-year to $65.8 million, now 93% of total revenues. Annual recurring revenue or ARR was $261.5 million growing 37% year-over-year. Non-GAAP operating income was $12 million in the quarter or 17% of revenue. This was a 0.5 point decrease over the third quarter of 2019. And unlevered free cash flow totaled $28.2 million in the third quarter, representing an unlevered free cash flow margin of 40%. This compares with a margin of 33% for third quarter 2019.
+Our strong third quarter results reflect the continuing trend of IT consumerization the fuels the growth of Apple and the enterprise. This trend where employees demand to use at work, the technology they already love at home, has accelerated over the past six months. Jamf has responded by helping thousands of organizations around the globe implement remote work solutions, as well as helping schools with distance-learning and hospitals with their telehealth solutions. Jamf's value to customers and our business results continue to strengthen as these trends further route themselves into daily life, both in the short-term and far into the future.

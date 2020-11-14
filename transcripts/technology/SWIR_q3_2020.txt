@@ -1,0 +1,25 @@
+Sierra Wireless, Inc. (NASDAQ:SWIR) Q3 2020 Earnings Conference Call November 12, 2020  6:00 PM ET
+Company Participants
+David Climie – Vice President-Investor Relations
+Kent Thexton – President and Chief Executive Officer
+Sam Cochrane – Chief Financial Officer
+Conference Call Participants
+Mike Walkley – Canaccord
+Thanos Moschopoulos – BMO Capital
+Paul Treiber – RBC Capital Markets
+Todd Coupland – CIBC
+Amir Geva – National Bank
+Operator
+Good afternoon, ladies and gentlemen. thank you for standing by and welcome to the Sierra Wireless Third Quarter Conference Call.
+I would now turn the call over to David Climie, VP of Investor Relations and you may begin.
+David Climie
+Thanks and good afternoon, everybody. Thank you for joining today’s conference call and webcast. On the call today are Kent Thexton, President and CEO; and Sam Cochrane, our CFO. As a reminder, today’s presentation is being webcast and will be available on our website following the call. Today’s agenda is as follows. Kent will provide his corporate update and Sam will provide a detailed review of our third quarter 2020 results, followed by Q&A.
+Before we get started, I will reference the company’s cautionary note regarding forward-looking statements. A summary of our cautionary note can be found on Page 2 of the webcast and is now being displayed. Today’s presentation contains certain statements and information that are not based on historical facts and constitute forward-looking statements within the meaning of securities laws. These statements include our strategy, goals, objectives, expectations and commentary regarding the outlook for our business. Our forward-looking statements are based on a number of material assumptions, including those listed on Page 2 of the webcast presentation, which could prove to be significantly incorrect.
+Additionally, forward-looking statements are based on our management’s current expectations, and we caution investors that forward-looking statements, particularly those that relate to longer periods of time, are subject to substantial known and unknown material risks and uncertainties that could cause actual events or results to differ significantly from those expressed or implied by our forward-looking statements.
+I draw your attention to a longer discussion of our risk factors on our AIF and management discussion and analysis, which can be found on SEDAR and EDGAR, as well as other regulatory filings. This presentation should also be viewed in conjunction with our quarterly earnings release.
+With that, I will now turn the call over to Kent for his corporate update.
+Kent Thexton
+Thanks, David. I will start my prepared remarks today with an update on the divestiture of our automotive product line, followed by some comments and highlights from our third quarter.
+Regarding the sale of our automotive product line for $165 million, which we announced in July, things continued to remain on track and we expect it to close in the coming weeks. The purchaser Rolling Wireless has received the regulatory approvals, it requires to proceed and the Tier 1 automotive customers have also provided their approval and are moving ahead with the transition. Given this progress, we are not expecting any impediment to completing the transaction.
+The divestiture of the automotive business enabled us to accelerate our efforts in our device-to-cloud IoT solutions to generate higher value recurring revenue. It also allows our R&D teams to focus on market-leading 5G programs, including new embedded modules for mobile broadband and new 5G gateways for our enterprise networking customers.
+With the transaction on track, we are reporting continuing operations in the third quarter, with automotive product line under discontinued operations in the income statement. And in our earnings release and during our webcast today, we will be providing GAAP and non-GAAP financial information on the continuing business on a standalone basis, as well as combined with a discontinued automotive product line. Sam will review that in more detail in his summary of the third quarter.

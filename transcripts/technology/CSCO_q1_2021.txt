@@ -1,0 +1,31 @@
+Cisco Systems, Inc. (NASDAQ:CSCO) Q1 2021 Results Earnings Conference Call November 21, 2020  4:30 PM ET
+Company Participants
+Marilyn Mora - Head of Investor Relations
+Chuck Robbins - Chairman and Chief Executive Officer
+Kelly Kramer - Executive Vice President and Chief Financial Officer
+Conference Call Participants
+Ittai Kidron - Oppenheimer
+Paul Silverstein - Cowen & Co.
+Rod Hall - Goldman Sachs
+Meta Marshall - Morgan Stanley Investment Research
+Tim Long - Barclays
+Jim Suva - Citigroup Investment Research
+Tal Liani - Bank of America
+Amit Daryanani - Evercore
+Samik Chatterjee - JPMorgan
+Aaron Rakers - Wells Fargo
+Simon Leopold - Raymond James & Associates
+James Fish - Piper Sandler
+Sami Badri - Credit Suisse
+Operator
+Welcome to Cisco’s First Quarter Fiscal Year 2021 Financial Results Conference Call. At the request of Cisco, today’s conference is being recorded. If you have any objections, you may disconnect.
+Now, I would like to introduce Marilyn Mora, Head of Investor Relations. Ma’am, you may begin.
+Marilyn Mora
+Thanks Michelle. Welcome, everyone, to Cisco's first quarter of fiscal 2021 quarterly earnings conference call. This is Marilyn Mora, Head of Investor Relations, and I'm joined by Chuck Robbins, our Chairman and CEO; and Kelly Kramer, our CFO. By now, you should have seen our earnings press release. A corresponding webcast with slides, including supplemental information, will be made available on our website in the Investor Relations section following the call.
+As is customary, in Q1, we have made certain reclassifications to prior-period amounts to conform to the current period's presentation. Income statements, full GAAP to non-GAAP reconciliation information, balance sheets, cash flow statements and other financial information can also be found in the Financial Information section of our Investor Relations website.
+Throughout this conference call, we will be referencing both GAAP and non-GAAP financial results and will discuss product results in terms of revenue and geographic and customer results in terms of product orders, unless stated otherwise. All comparisons made throughout this call will be on a year-over-year basis.
+The matters we will be discussing today include forward-looking statements, including the guidance we will be providing for the second quarter of fiscal 2021. They are subject to the risks and uncertainties, including COVID-19 that we discuss in detail in our documents filed with the SEC, specifically the most recent report on Form 10-K, which identify important risk factors that could cause actual results to differ materially from those contained in the forward-looking statements. With respect to guidance, please also see the slides and press release that accompany this call for further details. Cisco will not comment on its financial guidance during the quarter unless it is done through an explicit public disclosure.
+With that, I'll now turn it over to Chuck.
+Chuck Robbins
+Thanks Marilyn. First, I want to start off by saying I hope everyone is safe and healthy. I also want to thank our employees for their dedication to our customers and their relentless focus on innovation. Cisco is off to a solid start in fiscal 2021. And I am proud of these results. Our teams are executing with excellence, and we continue to make steady progress on our shift to a software and subscription-driven model. We are encouraged by the signs of improvement in our business as we continue to navigate the pandemic and other macro uncertainties.
+Our focus is on winning with a differentiated innovation portfolio, long-term growth and being a trusted technology partner for our customers. Over the last few quarters, we've successfully adjusted to new demands by making necessary changes and shifts within our business. We remain closely aligned with our customers to provide them with the mission critical technology they need to stay resilient and move towards adopting new hybrid work models.

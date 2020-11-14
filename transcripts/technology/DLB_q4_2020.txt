@@ -1,0 +1,25 @@
+Dolby Laboratories, Inc. (NYSE:DLB) Q4 2020 Earnings Conference Call November 12, 2020  5:00 PM ET
+Company Participants
+Jason Dea - Director of Corporate Finance and Investor Relations
+Lewis Chew - Executive Vice President and Chief Financial Officer
+Kevin Yeaman - President and Chief Executive Officer
+Conference Call Participants
+Steven Frankel - Colliers Securities LLC
+Ralph Schackart - William Blair & Company LLC
+Paul Chung - JPMorgan Chase & Co.
+Eric Wold - B. Riley FBR, Inc.
+James Goss - Barrington Research Associates, Inc.
+Ivan Feinseth - Tigress Financial Partners LLC
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome to the Dolby Laboratories Conference Call discussing Fiscal Fourth Quarter and Fiscal 2020 Results. During the presentation, all participants will be in a listen-only mode. Afterwards, you will be invited to participate in a question-and-answer session. [Operator Instructions] As a reminder, this call is being recorded Thursday, November 12, 2020.
+I'd now like to turn the conference call over to Jason Dea, Director of Investor Relations for Dolby Laboratories. Please go ahead, Jason.
+Jason Dea
+Good afternoon. Welcome to Dolby Laboratories fourth quarter 2020 earnings conference call. Joining me today are Kevin Yeaman, Dolby Laboratories President and CEO; and Lewis Chew, Executive Vice President and Chief Financial Officer. As a reminder, today's discussion will include forward-looking statements, including our first quarter and second quarter fiscal 2021 outlook and our assumptions underlying that outlook.
+These statements are subject to risks and uncertainties that may cause actual results to differ materially from the statements made today. In particular, the extent of the continued impact of COVID-19 on our business remains uncertain at this time. A discussion of these and additional risks and uncertainties can be found in the earnings press release that is issued today under the section captioned, Forward-Looking Statements as well as in the Risk Factors section of our most recent quarterly report on Form 10-Q. Dolby assumes no obligation and does not intend to update any forward-looking statements made during this call as a result of new information or future events.
+During today's call, we will discuss GAAP and non-GAAP financial measures. A reconciliation between the two is available in our earnings press release and in the Dolby Laboratories Investor Relations data sheet, on the Investor Relations section of our website.
+After the content of today's call, Lewis will begin with a recap of Dolby's financial results and provide our first and second quarter 2021 outlook, and Kevin will finish with a discussion of the business.
+So with that introduction behind us, I will now turn the call over to Lewis.
+Lewis Chew
+All right. Thank you, Jason and congratulations in advance for the impending arrival of your second child. So good afternoon, everyone. I hope everyone is doing well. Our Q4 revenue was above our guidance, but we are still down on a year-over-year basis and that reflects the ongoing impact of the pandemic. So let's go through the numbers.
+Fourth quarter revenue was $271 million compared to $247 million in Q3 and $299 million in Q4 of last year. Our revenue guidance coming into the fourth quarter was a range of $225 million to $255 million. So compared to guidance, revenues were better than what we projected as we had a true-up of about $25 million in the quarter related to Q3 shipments, which was about $15 million higher than the true-up that we had last quarter, and with most of that improvement coming from TVs and set-top boxes, and PCs.
+Total company revenue in Q4 increased sequentially by $24 million compared to Q3 as we benefited from higher unit volumes in TVs, set-top boxes, DMAs and PCs, along with the higher true-up that I just discussed, and all of this was partially offset by lower revenue from mobile due to timing under contracts, and I will discuss that in a second.
