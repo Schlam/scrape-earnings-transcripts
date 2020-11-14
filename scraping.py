@@ -13,7 +13,7 @@ URL = f"https://seekingalpha.com/earnings/earnings-call-transcripts?sector={SECT
 
 
 
-def config_browser(**kwargs):
+def config_browser():
     """
     
     Configure the automated browser used for scraping
@@ -23,15 +23,8 @@ def config_browser(**kwargs):
     # Default configuration
     chrome_config = {
         "executable_path": "/usr/local/bin/chromedriver",
-        "headless": True,
+        "headless": False,
     }
-
-
-    if kwargs:
-
-        # If given, update config with keyword arguments
-        chrome_config.update({key: val for key, val in kwargs})
-
     
     return Browser('chrome', **chrome_config)
 
@@ -232,7 +225,7 @@ if __name__ == "__main__":
 
 
     # Configure browser 
-    browser = config_browser(headless=False)
+    browser = config_browser()
 
     # Scrape all transcripts
     scrape_all_transcripts(browser)
