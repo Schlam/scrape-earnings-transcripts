@@ -1,0 +1,26 @@
+Palantir Technologies Inc. (NYSE:PLTR) Q3 2020 Earnings Conference Call November 12, 2020  5:00 PM ET
+Company Participants
+Rodney Nelson - Head of Investor Relations
+Shyam Sankar - Chief Operating Officer
+Dave Glazer - Chief Financial Officer
+Kevin Kawasaki - Global Head of Business Development
+Conference Call Participants
+Brent Thill - Jefferies
+Keith Weiss - Morgan Stanley
+Alex Zukin - RBC
+Chris Merwin - Goldman Sachs
+Brad Zelnick - Credit Suisse
+Tyler Radke - Citi
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to the Palantir Technologies Third Quarter 2020 Earnings Conference Call. At this time, all participants are in a listen-only mode. [Operator Instructions] Please be advised that today's conference is being recorded. [Operator Instructions] 
+I would now like to hand the conference over to your speaker today, Rodney Nelson, Head of Investor Relations. Thank you. Please go ahead.
+Rodney Nelson
+Thank you, operator. Good afternoon, and welcome to Palantir's third quarter 2020 earnings call. We'll be discussing the results announced in our press release issued after the market close and posted on our Investor Relations website. With me on the call today is Shyam Sankar, Chief Operating Officer; Dave Glazer, Chief Financial Officer; and Kevin Kawasaki, Global Head of Business Development.
+During the call, we will make statements regarding our business that may be considered forward-looking within applicable securities laws, including statements regarding our outlook for the fourth quarter and full year 2020, management's expectations for our future financial and operational performance and other statements regarding our plans, prospects, and expectations.
+These statements are not promises or guarantees and are subject to risks and uncertainties, which could cause them to differ materially from actual results. Information concerning those risks is available in our earnings press release distributed after market close today and in our SEC filings. We undertake no obligation to update forward-looking statements, except as required by law.
+Further, during the course of today's call, we will refer to certain adjusted financial measures. These non-GAAP financial measures should be considered in addition to, not as a substitute for or in isolation from, GAAP measures. Additional information about these non-GAAP measures, including a reconciliation of non-GAAP to comparable GAAP measures, is included in our press release issued today. Our press release, investor presentation and SEC filings are available on our Investor Relations website at investors.palantir.com. 
+With that, I'll turn it over to Shyam.
+Shyam Sankar
+Thank you, Rodney, and thanks, everyone, for joining us today. At Palantir, we build software platforms for institutions whose work is essential to our way of life. Those institutions must be able to function in times of stability, as well as crisis and uncertainty. And to do so, they need software that works. We were founded in 2003 and started building software originally for the intelligence community in the United States to assist in counter terrorism investigations and operations.
+We later began working with commercial enterprises. We have two principal software platforms: Gotham and Foundry. Gotham, which is our first software platform, was constructed for analysts at defense and intelligence agencies. They were hunting for needles, not in one, but in thousands of haystacks. And they did not have the software they needed to do their jobs.
+In Iraq and Afghanistan, soldiers were mapping networks of insurgence and makers of roadside bombs by hand. Gotham enables users to identify patterns hidden deep within data sets, ranging from signals intelligence sources to reports from confidential informant, and it helps U.S. and allied military personnel respond to those threats.

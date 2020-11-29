@@ -1,0 +1,30 @@
+NVIDIA Corporation (NASDAQ:NVDA) Q3 2021 Results Conference Call November 18, 2020  5:00 PM ET
+Company Participants
+Simona Jankowski - IR
+Jensen Huang - President and CEO
+Colette Kress - EVP and CFO
+Conference Call Participants
+John Pitzer - Credit Suisse
+C.J. Muse - Evercore
+Stacy Rasgon - Bernstein Research
+Vivek Arya - Bank of America
+Harlan Sur - JP Morgan
+Timothy Arcuri - UBS
+Aaron Rakers - Wells Fargo
+Ambrish Srivastava - BMO Capital Markets
+William Stein - Truist Securities
+Operator
+Good afternoon. My name is Jason, and I will be your conference operator today. At this time, I would like to welcome everyone to NVIDIA’s Third Quarter Financial Results Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers’ remarks, there will be a question-and-answer session. [Operator Instructions] Thank you.
+Simona Jankowski, you may begin your conference.
+Simona Jankowski
+Thank you. Good afternoon, everyone and welcome to NVIDIA’s conference call for the third quarter of fiscal 2021.
+With me on the call today from NVIDIA are Jensen Huang, President and Chief Executive Officer; and Colette Kress, Executive Vice President and Chief Financial Officer.
+I’d like to remind you that our call is being webcast live on NVIDIA’s Investor Relations website. The webcast will be available for replay until the conference call to discuss our financial results for the fourth quarter of fiscal 2021. The content of today’s call is NVIDIA’s property. It can’t be reproduced or transcribed without our prior written consent.
+During this call, we may make forward-looking statements based on current expectations. These are subject to a number of significant risks and uncertainties and our actual results may differ materially. For a discussion of factors that could affect our future financial results and business, please refer to the disclosure in today’s earnings release, our most recent Forms 10-K and 10-Q and the reports that we may file on Form 8-K with the Securities and Exchange Commission. All our statements are made as of today, November 18, 2020, based on information currently available to us. Except as required by law, we assume no obligation to update any such statements.
+During this call, we will discuss non-GAAP financial measures. You can find a reconciliation of these non-GAAP financial measures to GAAP financial measures in our CFO commentary, which is posted on our website.
+With that, let me turn the call over to Colette.
+Colette Kress
+Thank you, Simona.
+Q3 was another exceptional quarter with record revenue of $4.73 billion, up 57% year-on-year, up 22% sequentially and well above our outlook. Our new NVIDIA Ampere GPU architecture is ramping with excellent demand across our major market platforms. Q3 was also a landmark quarter, both for us and the industry as a whole. As we announced plans to acquire Arm from SoftBank for $40 billion, we are incredibly excited about the combined company’s opportunities and we are working through the regulatory approval process. For today, we will focus our remarks on our quarterly performance.
+Starting with gaming. Revenue was a record $2.27 billion, up 37% year-on-year, up 37% sequentially, and ahead of our high expectations. Driving strong growth was our new NVIDIA Ampere architecture-based GeForce RTX 30 series of gaming GPUs. The GeForce RTX 3070, 3080 and 3090 GPUs offer up to two times the performance and two times the power efficiency over the previous Turing-based generation. Our second generation NVIDIA RTX combines ray tracing and AI to deliver the greatest ever generational leap in performance.
+First announced on September 1st and ranging in price from $499 to $1,499, these GPUs have generated amazing reviews and overwhelming demand. PC World called them staggeringly powerful, while Newegg cited more traffic than Black Friday. Many of our retail and e-tail partners sold out instantly, the RTX 30 series drove our biggest ever launch.

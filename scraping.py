@@ -1,14 +1,16 @@
-import requests
-from time import sleep
 from splinter import Browser
 from bs4 import BeautifulSoup as Soup
+from time import sleep
+from datetime import datetime
+import requests 
+import os
 
 
 
 # Number of seconds to delay script start/pause between requests
 LOGIN_DELAY, WAIT_TIME = 45, 5
 
-SECTOR = "popular"
+SECTOR = "most-popular"
 URL = f"https://seekingalpha.com/earnings/earnings-call-transcripts?sector={SECTOR}"
 
 
@@ -93,17 +95,29 @@ def get_dates(urls):
     Extract quarter/fiscal year from the url address
     
     """
-
-    dates = []
-
-    for url in urls:
-
-        str_index = url.find('on-q')
-        date = url[str_index + 3:str_index + 7]
-        date = url.replace('-','_')
-
-        dates.append(date)
     
+    dates = []
+    
+    for url in urls:
+        
+        # Get index for str pattern preceding quarter/date
+        index = url.find('-on-q')
+        
+
+        if index == -1:
+
+            # Account for urls that do not match the pattern    
+            dates.append('unknown_date')
+        
+        else:
+        
+            # Get index range for date pattern
+            date_start, date_end = index + 4, index + 11
+        
+            # Slice url for date and add to list
+            date = url[date_start: date_end].replace('-','_')
+            dates.append(date)
+        
     return dates
 
 
@@ -114,8 +128,16 @@ def get_filenames(symbols,dates):
     
     """
 
+    # Get todays date
+    date = str(datetime.today())\
+        .split()[0]
+
+    # Make directory for today's date
+    os.mkdir(f'transcripts/{SECTOR}/{date}')
+
+    # Get filenames
     filenames = [
-        f"transcripts/{SECTOR}/{symbol}_{date}.txt"
+        f"transcripts/{SECTOR}/{date}/{symbol}_{date}.txt"
         for symbol, date in zip(symbols, dates)
     ]
 
@@ -127,7 +149,7 @@ def get_transcript(url, browser):
     
     This function
         -   visits the transcript webpage
-        -   clicks "Single page view" to get full transcript
+        -   clicks "Single page view" to get full transcript (if necessary)
         -   parses webpage for paragraph elements
         -   joins together text from those elements
         -   returns the full transcript
@@ -137,11 +159,18 @@ def get_transcript(url, browser):
     browser.visit(url)
     sleep(1)
     
-    # Click 'Single page view' link, wait for page to load
-    browser.links\
-        .find_by_partial_text('Single page view')\
-            .click()
-    sleep(1)
+    try:
+    # Attempt to click 'Single page view' link
+        browser.links\
+            .find_by_partial_text('Single page view')\
+                .click()
+        # wait for page to load
+        sleep(1)
+
+    except Exception as e:
+        
+        print("'Single page view' link not present on webpage, moving on")
+
 
     # Get html from webpage, extract content from html
     soup = Soup(browser.html, 'html.parser')
@@ -197,10 +226,12 @@ def scrape_all_transcripts(browser, url=URL):
     filenames = get_filenames(ticker_symbols, call_dates)
 
 
+    # Count failed attempts for data logging purposes
+    error_no = 0
 
     # Iterate through earnings call transcript urls/filenames
     for url, filename in zip(transcript_urls, filenames):
-                
+
         try:
 
             # Get transcript from webpage
@@ -213,9 +244,12 @@ def scrape_all_transcripts(browser, url=URL):
 
         except Exception as e:
 
+            # Add one to error count
+            error_no += 1
+
             # If writing file fails, show error message and continue
             print(f"Error writing data to {filename}, {type(e)}:{e}")
-
+            print(f"{error_no}/{len(transcript_urls)} files not written")
         
         # Give the servers a break!!
         sleep(WAIT_TIME)

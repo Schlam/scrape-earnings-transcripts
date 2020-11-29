@@ -1,0 +1,30 @@
+Pure Storage, Inc. (NYSE:PSTG) Q3 2021 Earnings Conference Call November 24, 2020  5:00 PM ET
+Company Participants
+Nicole Noutsios - Investor Relations
+Charlie Giancarlo - Chief Executive Officer
+Kevan Krysler - Chief Financial Officer
+Conference Call Participants
+Jason Ader - William Blair
+Alex Kurtz - KeyBanc Capital Markets
+Aaron Rakers - Wells Fargo
+Pinjalim Bora - JPMorgan
+Nehal Chokshi - Northland
+Karl Ackerman - Cowen
+Mehdi Hosseini - Susquehanna
+Simon Leopold - Raymond James
+Tim Long - Barclays
+Eric Martinuzzi - Lake Street
+Katy Huberty - Morgan Stanley
+Operator
+Good day, ladies and gentlemen, and thank you for standing by, and welcome to the Pure Storage third quarter fiscal year 2021 earnings release conference call.
+At this time, all participants are in a listen-only mode. At the conclusion of our prepared remarks, there will be a question-and-answer session. [Operator Instructions] As a reminder, this call is being recorded.
+I would now like to introduce your host for today's conference call, Ms. Nicole Noutsios. Noutsios, please go ahead.
+Nicole Noutsios
+Thank you and good afternoon, welcome to the Pure Storage third quarter fiscal 2021 earnings call. My name is Nicole Noutsios Investor Relations of Pure Storage. Joining me today are CEO, Charlie Giancarlo; our CFO, Kevan Krysler; and our VP of Strategy, Matt Kixmoeller.
+Before we begin, I'd like to remind you that during this call, management will make forward-looking statements which are all subject to various risks and uncertainties. These include statements regarding the COVID-19 pandemic and related disruptions, our growth and sales prospects, including our Q4 outlook, competitive industry and technology trends, our strategy and its advantages, our current and future product offerings, including Portworx and business and operations. Any forward-looking statements that we make are based on facts and assumptions as of today, and we undertake no obligation to update them. Our actual results may differ materially from the results forecasted, and reported results should not be considered as an indication of future performance. A discussion of some of the risks and uncertainties related to the business is contained in our filings with SEC and we refer you to these public filings.
+During this call, we will discuss non-GAAP measures in talking about the company's performance and reconciliations to the most directly comparable GAAP measures are provided in our earnings press release and slides.
+This call is being broadcast live on the Pure Storage investor relations website and is being recorded for playback purposes. An archive of the webcast will be available on the IR website and our Web. And is the property of Pure Storage. With that, I'll turn the call over to CEO, Charlie Giancarlo.
+Charlie Giancarlo
+Good afternoon and good evening, everyone. Thank you for joining us on today's earnings call. As we look to the end of 2020 with relief and look forward with high hopes for a brighter 2021, my thoughts are with all of you on this call. I hope that you, your families, colleagues and friends are all staying healthy and faring well. The challenges and the changes we've experienced this year have been extraordinary and seem never ending. And they have certainly reset all of our expectations and assumptions. COVID has been the change agent of this decade and we have all learned many lessons in stamina and resilience.
+Like you, I am excited about the many reports on the fantastic progress with vaccines and therapies created by the world's scientists, doctors and engineers. However, we all know that there will continue to be challenges due to the virus and its economic impact for months to come for all of our communities and stakeholders.
+Through all of the challenges that COVID created this past year, Pure has been there for our customers delivering capacity, performance and services that enabled our customers to cope and thrive during the crisis. I feel confident that regardless of the rate of progress in the battle against COVID, Pure and most of our customers have turned the corner on their plans and ability to operate in this new normal.

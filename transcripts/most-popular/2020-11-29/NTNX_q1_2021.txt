@@ -1,0 +1,29 @@
+Nutanix, Inc. (NASDAQ:NTNX) Q1 2021 Earnings Conference Call November 23, 2020  4:30 PM ET
+Company Participants
+Tonya Chin - VP, Corporate Communications & IR
+Dheeraj Pandey - Co-Founder, Chairman & CEO
+Duston Williams - CFO
+Conference Call Participants
+Jason Ader - William Blair & Company
+Ittai Kidron - Oppenheimer
+Alexander Kurtz - KeyBanc Capital Markets
+Jon Andrews - Needham & Company
+James Fish - Piper Sandler & Co.
+Daniel Bergstrom - RBC Capital Markets
+Kathryn Huberty - Morgan Stanley
+Wamsi Mohan - Bank of America Merrill Lynch
+Aaron Rakers - Wells Fargo
+Christopher Rakers - Wells Fargo Securities
+Adam Bergere - JPMorgan Chase & Co.
+Simon Leopold - Raymond James & Associates
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to the Nutanix Q1 Fiscal Year 2021 Earnings Conference Call. [Operator Instructions].
+Now I'd like to hand the conference over to your speaker today, Ms. Tonya. Please go ahead.
+Tonya Chin
+Good afternoon, and welcome to today's conference call to discuss the results of our first quarter of fiscal 2021. This call is also being broadcast over the web and can be accessed in our Investor Relations website at ir.nutanix.com. Joining me today are Dheeraj Pandey, Nutanix' CEO; and Duston Williams, Nutanix' CFO. 
+After the market closed today, Nutanix issued a press release announcing financial results for its first quarter of fiscal year 2021. If you'd like to read the release, please visit the press releases section of our IR website. During today's call, management will make forward-looking statements, including statements regarding our business plans, strategies and outlooks, including our financial performance, use of financial targets and performance metrics and competitive position in future periods; the timing and impact of our current and future business model transition; the factors driving our growth; the timing and impact of our announced CEO transition plan; and the current and anticipated impact of the COVID-19 pandemic. These forward-looking statements involve risks and uncertainties, some of which are beyond our control, which could cause actual results to differ materially and adversely from those anticipated by these statements. For a detailed description of these factors, please refer to our SEC filings, including our most recent annual report on Form 10-K for fiscal 2020 filed with the SEC on September 23, 2020 as well as our earnings press release issued today. These forward-looking statements apply as of today, and we undertake no obligation to update these statements after this call. As a result, you should not rely on them as representing our views in the future. 
+Please note, unless otherwise specifically referenced, all financial measures we use on today's call are expressed on a non-GAAP basis and have been adjusted to exclude certain charges. We have provided, to the extent available, reconciliations to these non-GAAP financial measures to GAAP financial measures on our IR website and in our earnings press release. 
+Lastly, Nutanix management will host virtual meetings with investors at the Crédit Suisse 24th Annual Technology Conference on December 1, the Wells Fargo TMT Summit on December 2, the Raymond James Technology Conference on December 7 and the Needham Growth Conference on January 11. We hope to connect with many of you there. 
+And with that, I'll turn the call over to Dheeraj. Dheeraj?
+Dheeraj Pandey
+Thank you, Tonya, and good afternoon, everyone. Q1 was a very good quarter, positioning us well for the rest of fiscal. While Duston will go into more details on the financials, the headline is that we outperformed across all our key metrics. ACV billings were 14% ahead of the midpoint of our guidance and consensus. And notably, Q1 was our best ACV bookings quarter ever, the pandemic notwithstanding. In addition, we delivered strong gross margins, EPS and free cash flow performance. 

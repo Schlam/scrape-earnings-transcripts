@@ -1,0 +1,28 @@
+Baidu, Inc. (NASDAQ:BIDU) Q3 2020 Earnings Conference Call November 16, 2020  8:15 PM ET
+Company Participants
+Juan Lin - Director, IR
+Robin Li - Co-Founder, Chairman & CEO
+Herman Yu - CFO
+Dou Shen - EVP
+Conference Call Participants
+Alicia Yap - Citigroup
+Eddie Leung - Bank of America Merrill Lynch
+Piyush Mubayi - Goldman Sachs Group
+James Lee - Mizuho Securities
+Gregory Zhao - Barclays Bank
+Tian Hou - T.H. Capital
+Elinor Leung - CLSA Limited
+Operator
+Hello, and thank you for standing by for Baidu's Third Quarter 2020 Earnings Conference Call. At this time, all participants are in listen-only mode. After management’s prepared remarks, there will be a question-and-answer session. Today’s conference is being recorded. [Operator Instructions].
+I would now like to turn the meeting over to your host for today's conference, Juan Ling, Baidu's Director of Investor Relations.
+Juan Lin
+Hello, everyone, and welcome to Baidu's third quarter 2020 earnings conference call. Baidu's earnings release was distributed earlier today, and you can find a copy on our website as well as on newswire services.
+On the call today, we have Robin Li, our Chief Executive Officer; Herman Yu, our Chief Financial Officer; and Dou Shen, our Executive Vice President in charge Baidu's Mobile Ecosystem Group, our search and feed business. After our prepared remarks, we will hold a Q&A session.
+Please note that the discussion today will contain forward-looking statements made under the Safe Harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from our current expectations. Potential risks and uncertainties include, but are not limited to, those outlined in our public filings with the SEC, including our annual report on Form 20-F. Baidu does not undertake any obligation to update any forward-looking statements, except as required under applicable law.
+Our earnings press release and this call include discussions of certain unaudited non-GAAP financial measures. We have made minor adjustments to our non-GAAP measures, and we actively apply these changes for comparison purposes. Our press release contains a reconciliation of the unaudited non-GAAP measures to the unaudited most directly comparable GAAP measures, and is available on our IR website at ir.baidu.com.
+As a reminder, this conference is being recorded. In addition, a webcast of this conference call will also be available on Baidu's IR website.
+I will now turn the call over to our CEO, Robin.
+Robin Li
+Hello, everyone. We delivered solid results in the third quarter with Baidu's total revenues, reaching RMB 28.2 billion, up 1% from last year. Baidu Core revenue reached RMB 21.4 billion, up 13% sequentially, which is an acceleration from the 8% sequential growth for the third quarter last year.
+China saw a second wave of COVID-19 cases in July and was quick to contain the pandemic, giving us confidence that China has standard operating procedures in place to promptly deal with the new COVID outbreaks. Many of the advertising verticals that saw negative growth in prior quarters have turned around, including healthcare, education, auto, lifestyle and software. As the Chinese economy continues to recover, we are in a good position to further benefit from such improvement in the business environment.
+Over the last few years, we have focused on strengthening Baidu's mobile ecosystem by increasing log-in users, aggregating content and services on Baidu's platform, and adding social engagement to our platform. Such strengthening of our mobile ecosystem has not only improved the search user experience, it has also allowed users to do more on Baidu, from information research to social interaction to closed-loop purchases.

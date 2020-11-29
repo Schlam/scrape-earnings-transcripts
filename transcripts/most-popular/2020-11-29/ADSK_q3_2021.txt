@@ -1,0 +1,30 @@
+Autodesk, Inc. (NASDAQ:ADSK) Q3 2021 Results Earnings Conference Call November 24, 2020  5:00 PM ET
+Company Participants
+Simon Mays-Smith - Vice President, Investor Relations
+Andrew Anagnost - Chief Executive Officer
+Scott Herren - Chief Financial Officer
+Conference Call Participants
+Saket Kalia - Barclays Capital
+Matt Hedberg - RBC Capital Markets
+Philip Winslow - Wells Fargo
+Heather Bellini - Goldman Sachs
+Jay Vleeschhouwer - Griffin Securities
+Brad Zelnick - Credit Suisse
+Keith Weiss - Morgan Stanley
+Adam Borg - Stifel
+Steve Koenig - SMBC Nikko
+Operator
+Ladies and gentlemen, thank you for standing by. And welcome to the Q3 Fiscal Year 2021 Autodesk Earnings Conference Call. At this time, all participants’ lines are in a listen-only mode. After the speaker presentation, there will be a question-and-answer session. [Operator Instructions] Please be advised that today’s conference is being recorded. [Operator Instructions]
+I would now like to hand the conference over to your speaker today, Simon Mays-Smith, Vice President of Investor Relations. Thank you. Please go ahead, sir.
+Simon Mays-Smith
+Thanks, Operator, and good afternoon. Thank you for joining our conference call to discuss the results of our third quarter of fiscal year ‘21. On the line is Andrew Anagnost, our CEO; and Scott Herren, our CFO.
+Today’s conference call is being broadcast live via webcast. In addition, a replay of the call will be available at autodesk.com/investor. You can find the earnings press release, slide presentation and transcript of today’s opening commentary on our Investor Relations website following this call.
+During the course of this call, we may make forward-looking statements about our outlook, future results and related assumptions, and strategies. These statements reflect our best judgment based on currently known factors. Actual events or results could differ materially.
+Please refer to our SEC filings for important risks and other factors including developments in the COVID-19 pandemic and the resulting impact on our business and operations that may cause our actual results to differ from those in our forward-looking statements.
+Forward-looking statements made during the call are being made as of today. If this call is replayed or reviewed after today, the information presented during the call may not contain current or accurate information. Autodesk disclaims any obligation to update or revise any forward-looking statements.
+During the call, we will quote a number of numeric or growth changes as we discuss our financial performance and unless otherwise noted, each such reference represents a year-on-year comparison. All non-GAAP numbers referenced in today’s call are reconciled in the press release or the slide presentation on our investor relations website.
+And now, I will turn the call over to Andrew.
+Andrew Anagnost
+Thank you, Simon, and welcome everyone to the call. First off, I hope you and your families are remaining safe and healthy. Before jumping into our third quarter results, I would like to thank again our employees and the families and communities that support them, as well as our partners and customers, for their sustained commitment during uncertain times.
+That commitment was reflected in our execution, and demonstrated the resilience of our business model this past quarter. Together, they enabled us to deliver strong Q3 results - with billings, revenue, earnings and free cash flow coming in above expectations, despite the volatile macro-economic conditions resulting from the pandemic.
+I am pleased to see the acceleration of our SaaS business model, the secular shift to the cloud underpinning it and the competitive opportunities it brings. We have many miles of opportunity ahead of us. Our enterprise customers are undertaking their own digital transformation and by enabling that transformation, we are becoming a strategic partner rather than a software vendor.

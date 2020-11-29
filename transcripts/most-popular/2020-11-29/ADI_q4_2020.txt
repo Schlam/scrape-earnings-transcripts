@@ -1,0 +1,30 @@
+Analog Devices, Inc. (NASDAQ:ADI) Q4 2020 Earnings Conference Call November 24, 2020 10:00 AM ET
+Company Participants
+Michael Lucarelli - Senior Director, Investor Relations
+Vincent Roche - President and Chief Executive Officer
+Prashanth Mahendra-Rajah - Senior Vice President, Finance and Chief Financial Officer
+Conference Call Participants
+Vivek Arya - Bank of America
+Tore Svanberg - Stifel
+John Pitzer - Credit Suisse
+Ambrish Srivastava - BMO
+C.J. Muse - Evercore
+Toshiya Hari - Goldman Sachs
+Blayne Curtis - Barclays
+Ross Seymore - Deutsche Bank
+Operator
+Good morning, and welcome to the Analog Devices Third [sic] [Fourth] Quarter Fiscal Year 2020 Earnings Conference Call, which is being audio webcast via telephone and over the web.
+I'd now like to introduce your host for today's call, Mr. Michael Lucarelli, Senior Director of Investor Relations. Sir, the floor is yours.
+Michael Lucarelli
+Thank you, Cheryl, and good morning, everybody. Thanks for joining our fourth quarter and fiscal 2020 conference call.
+With me on the call today are ADI's CEO, Vincent Roche; and ADI's CFO, Prashanth Mahendra-Rajah. For anyone who missed the release, you can find it and relating financial schedules at investor.analog.com.
+Now on to disclosures. The information we're about to discuss includes forward-looking statements, including statements relating to our objectives, outlook and the proposed Maxim transaction. These forward-looking statements are subject to certain risks and uncertainties, as further described in our earnings release, our most recent 10-K and other periodic reports and materials filed with the SEC. Actual results could differ materially from these forward-looking - this forward-looking information as these statements reflect our expectations only as of the date of this call. We undertake no obligation to update these statements, except as required by law.
+Our comments today will also include non-GAAP financial measures, which exclude special items. When comparing our results to our historical performance, special items are also excluded from prior periods. Reconciliations of these non-GAAP measures to their most directly comparable GAAP measures and additional information about our non-GAAP measures are included in today's earnings release.
+Okay. With that, I'll turn it over to ADI's CEO, Vincent Roche. Vince?
+Vincent Roche
+Thank you, Mike, and good morning to you all. I hope that you and your families are healthy and safe at this time.
+So 2020 represents a year of strategic progress for ADI in a very highly uncertain macroeconomic environment. Fortunately, ADI was already operating from a position of strength. Over the last decade, we've created a structurally more profitable business. We realigned our portfolio to target more durable end markets and become more diverse across customers, products and applications.
+During this past year and at the height of the pandemic, this business model proved quite resilient with gross and operating margins troughing at 68% and 37%, respectively, levels we previously considered peak. It's this resiliency that enables us to sustain a healthy of – level of investment against any economic backdrop.
+We’ve also been not afraid to make strategic pivots towards the most attractive investment opportunities that enhance our customer engagement and better align us to secular growth trends, such as digital healthcare.
+Clearly, the biggest investment decision of 2020 was our strategic combination with Maxim, which will further extend the scale and scope of our semiconductor portfolio. And I'll expand on this in a while.
+As I reflect on the immediate challenges of our current environment, we believe there is more ADI can do to leverage our expertise to engineer a more sustainable future and make an even more positive impact on the world.

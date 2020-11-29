@@ -1,0 +1,24 @@
+AT&T, Inc. (NYSE:T) Morgan Stanley TMT Conference November 20, 2020  8:35 AM ET
+Company Participants
+John Stephens - CFO
+Conference Call Participants
+Simon Flannery - Morgan Stanley
+Simon Flannery
+Good morning, and good afternoon, everybody. Welcome to the final day of TMT Barcelona. Unfortunately, we're virtual this year, but it's our great pleasure to welcome John Stephens, the CFO of AT&T. Welcome, John.
+John Stephens
+Thank you, Simon.
+Simon Flannery
+Before we get started, please note that important disclosures are on the Morgan Stanley research disclosure website at www.morganstanley.com/researchdisclosures. And I think, John, you have some safe harbor as well.
+John Stephens
+I sure do, Simon. First of all, thanks for having me. Always appreciate being with you and I enjoy spending the time together. Some of the comments I'm going to be making are forward-looking that are subject to risk. I'd encourage everyone to look at our SEC filings and our website information. And lastly, as everyone knows, the process for the C-Band auction has begun. So we'll -- we're going to have to adhere to the quiet period rules with regard to that. That being said, Simon, let's get started.
+Question-and-Answer Session
+Q - Simon Flannery
+Great. Well, maybe we'll start with some personal news. Congratulations on your retirement announcement. You're going to be leaving in March. Perhaps just talk us through why now? And a little bit about Pascal for those who don't know him.
+John Stephens
+Yes. Great. Thanks. I'd like to say, I'm excited about it. Simply, I've been in the job, it'll be 10 years when I retire from what it was announced. And so it's time, logical time for change. My wife and I and our family has grown, and we have some interest in doing some other, if you will, other things in the next chapter. So we're really excited about it. Needless to say, this is something my family is waiting for, for a while.
+With regard to Pascal, he's going to do great. You'll enjoy him. He's got a lot of experience. He's been with Time Warner and Turner, a long time, a very storied career with regard to -- prior to that. And a very, very sound business and technical expertise, but he's also going to have a great team. We've got a great finance team here at AT&T, and they'll do a great job working with them and support them. So feel really good about the situation. And excited for the momentum of the business, quite frankly. And as you saw in the third quarter, feel really good about that, and that also makes any kind of transition much easier.
+Simon Flannery
+Great. Well, I'm sure we'll have a chance to catch up before you leave, but good luck with the transition. Let's talk about the COVID situation. You talked about Q3 and certainly some encouraging signs in terms of subscriber momentum across the business, across the industry, frankly. But how has AT&T been navigating COVID? And how do you see this going forward?
+John Stephens
+Yes. So a couple of things: One, we've been focused on safety and security of our employees, our customers. We've been focused on continuing to provide great service to our customers. And when I say that, I'll tell you, if you think about the dramatic shifts in network traffic, from the urban cores to the suburban and rural areas and the seamless way, we've been able to do that. As many of us, Simon, work from home and traffic jams are not what they used to be, even in major cities. The empowerment of that, the enablement of that comes from the great networks of companies like ours. 
+So we've been really proud of that. Certainly, the COVID has hit our -- from a product set, it has provided a reassurance of the quality of the resilient products of broadband, wireless connectivity, those aspects, and those have done really well. It's challenged the media business, the closing of theaters. The challenge with getting production completed and having to postpone or delay production. So we are seeing those challenges. We're getting through those. We've got a lot of production back up and running. It's -- we're doing it safely. We're doing it carefully, but we're seeing that come back. You've seen us open back up our stores. 

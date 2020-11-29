@@ -1,0 +1,28 @@
+Dell Technologies Inc. (NYSE:DELL) Q3 2021 Earnings Conference Call November 24, 2020  5:30 PM ET
+Company Participants
+Rob Williams - Head, Investor Relations
+Jeff Clarke - Vice Chairman and Chief Operating Officer
+Tom Sweet - Chief Financial Officer
+Tyler Johnson - Treasurer
+Conference Call Participants
+Toni Sacconaghi - Bernstein 
+Wamsi Mohan - Bank of America
+Amit Daryanani - Evercore
+Rod Hall - Goldman Sachs 
+Katy Huberty - Morgan Stanley
+Jim Suva - Citigroup Investments
+Aaron Rakers - Wells Fargo
+Shannon Cross - Cross Research
+Operator
+Good afternoon, and welcome to the Fiscal Year 2021 Third Quarter Results Conference Call for Dell Technologies Inc. I’d like to inform all participants this call is being recorded at the request of Dell Technologies. This broadcast is the copyrighted property of Dell Technologies, Inc. Any rebroadcast of this information in whole or part without the prior written permission of Dell Technologies is prohibited. Following prepared remarks, we will conduct a question-and-answer session. [Operator Instructions]
+I’d like to turn the call over to Rob Williams, Head of Investor Relations. Mr. Williams, you may begin.
+Rob Williams
+Thanks, Erica and thanks, everyone for joining us. With me today are our Vice Chairman and COO, Jeff Clarke, our CFO, Tom Sweet along with our Treasurer, Tyler Johnson. Our press release, financial tables, web deck, prepared remarks and additional materials are available on our IR website. The guidance section will be covered on today's call.
+During this call, unless we otherwise indicate, all references to financial measures refer to non-GAAP financial measures, including non-GAAP revenue, gross margin, operating expenses, operating income, net income, earnings per share, EBITDA, adjusted EBITDA and adjusted free cash flow. A reconciliation of these measures to their most directly comparable GAAP measures can be found in our web deck and press release. Please also note that all growth percentages refer to year-over-year change unless otherwise specified and that VMware historical segment results have been recast to include Pivotal results.
+Additionally, I’d like to remind you that all statements made during this call that relate to future results and events are forward-looking statements, based on current expectations. Actual results and events can differ materially from those projected due to a number of risks and uncertainties, which are discussed in our web deck and SEC filings. We assume no obligation to update our forward-looking statements.
+Finally, before I turn it over to Jeff, I want to touch on the amended 13D we filed in July regarding our exploration of potential alternatives with respect to our ownership interest in VMware.
+We believe a tax-free spin could drive significant shareholder value by simplifying our capital structures and enabling greater strategic flexibility, while maintaining a strong commercial partnership between Dell and VMware. Both Dell and VMware have publicly highlighted mutual interest and the potential benefits of such a transaction and have engaged on key work streams including mutually beneficial commercial arrangements and Dell's expectation of a substantial cash dividend to VMware stockholders in connection with such a transaction.
+As a reminder, the earliest a transaction could close would be September 2021 with an announcement coming between now and then assuming we can come to an agreement. There is also the possibility that we will not do anything and we would maintain our current ownership structure. With that said, we will not address the discussions any further or take questions related to this topic on today's call.
+Now, I’d like to turn it over to Jeff.
+Jeff Clarke
+Thanks Rob. We have now been through three quarters of navigating an uncertain and at times, difficult year. We have been tested across our global society, across industries and companies, as teams and as individuals like never before. I could not be prouder of how the Dell Technologies team has responded. We’re growing, innovating and delivering for our customers in extraordinary ways, when and how they need us most.

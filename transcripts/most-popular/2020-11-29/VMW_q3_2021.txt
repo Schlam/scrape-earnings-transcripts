@@ -1,0 +1,36 @@
+VMware, Inc. (NYSE:VMW) Q3 2021 Results Conference Call November 24, 2020  4:30 PM ET
+Company Participants
+Paul Ziots - VP, IR
+Pat Gelsinger - CEO
+Zane Rowe - EVP and CFO
+Conference Call Participants
+Phil Winslow - Wells Fargo
+Matt Hedberg - RBC Capital Markets
+Mark Murphy - JP Morgan
+Walter Pritchard - Citigroup
+Mark Moerdler - Bernstein
+Raimo Lenschow - Barclays Capital
+Keith Weiss - Morgan Stanley
+Brent Thill - Jefferies
+Karl Keirstead - UBS
+Keith Bachman - BMO Capital Markets
+Kirk Materne - Evercore Partners
+Brad Zelnick - Credit Suisse
+Jason Ader - William Blair & Company, LLC
+James Fish - Piper Jaffray
+Operator
+Ladies and gentlemen, thank you for standing by and welcome to the VMware’s Q3 FY 2021 Earnings Call. At this time, all participants are in a listen-only mode. After the speakers’ presentation, there will be a question-and-answer session. [Operator Instructions]
+I would now like to hand the conference over to your speaker today, Mr. Paul Ziots, Vice President of Investor Relations. Please go ahead.
+Paul Ziots
+Thank you. Good afternoon, everyone, and welcome to VMware’s third quarter fiscal 2021 earnings conference call.
+On the call, we have Pat Gelsinger, Chief Executive Officer; and Zane Rowe, Executive Vice President and Chief Financial Officer. Following their prepared remarks, we will take questions.
+Our press release was issued after close of market and is posted on our website where this call is being simultaneously webcast. Slides which accompany this webcast can be viewed in conjunction with live remarks and downloaded at the conclusion of the webcast from ir.vmware.com.
+On this call today, we will make forward-looking statements that are subject to risks and uncertainties. Actual results may differ materially as a result of various risk factors described in the 10-Ks 10-Qs and 8-Ks VMware files with the SEC. We assume no obligation to and do not currently intend to update any such forward-looking statements.
+In addition, during today’s call, we will discuss certain non-GAAP financial measures. These non-GAAP financial measures, which are used as measures of VMware’s performance, should be considered in addition to, not as a substitute for or in isolation from GAAP measures.
+Our non-GAAP measures exclude the effect on our GAAP results of stock-based compensation, amortization of acquired intangible assets, employer payroll tax on employee stock transactions, acquisition, disposition, certain litigation matters and other items as well as discrete items impacting our GAAP tax rate. You can find additional disclosures regarding these non-GAAP measures, including reconciliations with comparable GAAP measures, in the press release and on our Investor Relations website.
+Unless otherwise indicated, all financial metrics provided on this call are for the consolidated VMware entity, including Pivotal. Growth rates compare our Q3 FY 2021 results with the recast of prior period financial information to include Pivotal due to the Pivotal acquisition, which was accounted for as a transaction by entities under common control in accordance with GAAP.
+The webcast replay of this call will be available for the next 60 days on our Company website under the Investor Relations link. Our fourth quarter fiscal 2021 quiet period begins at the close of business, Thursday, January 14, 2021.
+With that, I’ll turn it over to Pat.
+Pat Gelsinger
+Thank you, Paul, and welcome everyone.
+We are pleased with our Q3 financial performance. As we continue to navigate through the global pandemic, our any cloud, any application, anywhere strategy continues to resonate with our customers as they manage through these unprecedented times. Our performance was again driven by revenue growth of 44% year-over-year in subscriptions and SaaS to $676 million, surpassing on-premise license revenue for the first time.
