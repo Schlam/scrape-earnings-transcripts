@@ -1,0 +1,376 @@
+Ceragon Networks Ltd. (NASDAQ:CRNT) Q3 2020 Earnings Conference Call November  2, 2020  9:00 AM ET
+Company Participants
+Osi Sessler - Head, Investor Relations
+Ira Palti - President & Chief Executive Officer
+Ran Vered - Chief Financial Officer
+Conference Call Participants
+Alex Henderson - Needham & Company
+Gunther Karger - Discovery Group
+Operator
+Good day, everyone. Welcome to the Ceragon Networks Limited Third Quarter 2020 Results Conference Call. Today's call is being recorded and will be hosted by Mr. Ira Palti, President and CEO of Ceragon Networks.
+Before we start, I would like to note that this call includes information that constitutes forward-looking statements within the meaning of the Securities Act of 1933 and the Securities Exchange Act of 1934, as amended, and the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995. Although we believe that the expectations reflected in such forward-looking statements are based upon reasonable assumptions, we can give no assurance that our expectations will be obtained or that any deviations therefore will be -- will not be material. Such statements involve risks and uncertainties that may cause future results to differ materially from those anticipated. These risks and uncertainties include, but are not limited to the effects of general economic conditions, the effect of COVID-19 crisis on the global markets, and on the markets in which we operate, including the risk of a continued disruption to our and our customers' providers, business partners and contractors, business and operations as a result of COVID-19 pandemic and such other risks and uncertainties and other factors that could affect our results as detailed in our press release that was published earlier today, and as further detailed in Ceragon's most recent annual report on Form 20-F and in Ceragon's other filings with the Securities and Exchange Commission.
+Such forward-looking statements including as to the risks and uncertainties and other factors that could affect our results, represent our views only as of the date that they are made, and should not be relied upon as representing our views as of any subsequent date. Such forward-looking statements do not purport to be predictions of future events or results, and there can be no assurance that it will prove to be accurate. Ceragon may elect to update these forward-looking statements at some point in the future, but the company specifically disclaims any obligation to do so, except as maybe required by law. Ceragon's public filings are available from the Securities and Exchange Commission's website at www.sec.gov and may also be obtained from Ceragon's website at www.ceragon.com. Also, today's call will include certain non-GAAP numbers. For a reconciliation between GAAP and non-GAAP results, please see the table attached to the press release that was issued earlier today.
+I will now turn the call over to Mr. Ira Palti, President and CEO of Ceragon. Please go ahead, sir.
+Ira Palti
+Thank you. Good morning and good afternoon to everyone joining us on the call today. With me on the call today are Ran Vered, our Chief Financial Officer; and Osi Sessler, Head of Investor Relations.
+Before getting into the quarter, I hope that you, your loved ones, your coworkers are healthy and well. Here at Ceragon, the health and safety of our employees continues to be our top priority. We're managing well in the new normal, with all departments continuing at full speed.
+As you can see from the results, Q3 was a stronger period for Ceragon. Our revenues were $70.6 million, nearly back to pre-COVID levels, and our gross margin was above 33%, the highest it has been in more than a year. This combined with lower operating expenses gave us a profitable quarter, in line with our focused. Our performance reflects the market with a stronger than ever need to increase network capacity as the world goes increasingly online to shop, walk and socialize. It also reflects the complexity and operating difficulty of COVID which is still strongly with us. The need for broadband is driving urgency for building new 5G networks, expanding 4G networks, and extending ISP service into additional areas.
+As operators execute on 5G plans, a key consideration is being able to deploy the networks faster while controlling overall cost; and this has led to a complete change in the way networks are built. Many operators are now embracing an open network architecture in which both, run and co-network domains shift towards a cloud native software centric paradigm open one and open core. With this approach, network shift from tightly integrated hardware and software to a disaggregated model that enables operators to create virtual software-based network functions; this makes it much easier to adapt to constantly changing requirements. We, at Ceragon, play a key enabling role in this process with a new class of equipment designed specifically for the open one environment.
+We have recently released our new IP-50 platform in open solution architecture for wireless backhaul, midhaul and frontal. As part of the development process, we achieved several exciting technological breakthrough that led to it's recognition last week, but the telecom infra project tip [ph] community is one of the leading platforms for open wireless holding. They also recognized Ceragon as the only solution provider that offered both, technology and products for all components of the open wireless holding architecture. Although, this industry shift has been coming for several years, it is intensifying now. Operators making the shift are looking for best-in-class offerings for each network domain, and this is leading them to Ceragon. This is a testament to our strategy of providing best-in-class technology solutions which drive higher customer value for winning market share.
+These market dynamics are creating strong tailwind for our 5G efforts around the globe. We are very busy with 5G network design wins and POCs processes, as well as with activities around the release of our new 5G products. We are participating in various stages of the 5G selection process for operators throughout the world, each with a potential to lead to very large multi-year sales. This, our long-term effort that began with design wins, progress towards POCs, or proof-of-concept, with small initial shipments; and finally, as we believe we'll see volume shipments and deployment. On the POC front, we are preparing for a POC with an emerging Greenfield service provider in North America. It will test a wide coverage 5G solution with gigabit backhaul to support it's upcoming 5G rollout. We are also preparing for a field trial with one of the Pacific Rim leading open network operators following a very successful lab trial. Our solution will provide them with 20 gigabits 5G midhaul capacity, a millimeter-wave spectrum.
+We have also seen an increased number of design wins, including multiple recent awards from service providers in Europe and North America preparing to transition to 5G. They are looking to upgrade the backhaul installed base with minimal hardware changes, and our solutions takes care of it with simple swap of a module, as well as by providing a set of new radios in microwave and millimeter-wave bands which seamlessly integrates with our installed base. We have begun shipping our newly released IP-50C in Europe to support a number of ongoing 5G network rollouts. The IP-50C is an innovative all-outdoor quad-carrier solution for bringing 5G onto macro-cells. It provide extreme 5G backhaul network capacities in microwaves spectrum, while ensuring network reliability and availability. It is unique in it's support of operations in channels that are two to four times wider than our competitors can provide 8 gigabits in the air with the smallest footprint. This is the requirement for 5G macro-cells achieving double to quadruple increase in capacity.
+Operators understand the immense benefits and already acting in number of countries to realize this fantastic network development approach to 5G. And we are proceeding with regulatory law being with regulators worldwide to open up 224 megahertz channels uniquely supported by our technology, which allow the extreme 5G backhaul capacities that are required for this market. By the way, the operators that are preparing for 5G are taking a variety of rights to get there. Some are opting for fiber first deployments in densely populated area following later as the second stage with microwave deployments in less dense and rural areas, and with phone tolling radio units in the dense urban areas.
+Other are going ahead first, with upgrades to be ready for 5G quickly when the time comes. Therefore, our development activities are designed to make us the go-to supplier for every variation of the 5G opportunity, allowing customers to transform the network at their pace and in their own fashion. This is positioning us ideally and uniquely as a leader of hauling 5G technology.
+As to 4G, we continue to benefit from large expedited operator projects to increase network reach in markets where 4G is currently lacking, whether because of increased demand or inadequate coverage. In some of these projects, the operators are already feeding in the backhaul infrastructure data required for 5G. In Africa, we were awarded the big 4G order from Orange Niger and continued shipments to other operators for ongoing 4G upgrade and expansion projects.
+In India, we continued achieving a good delivery and installation run rate for a Bharti project despite COVID with constraints, given us strong revenues from both products and services. In APAC, we delivered very strongly in Southeast Asia, where multiple operators are ramping up the 4G networks. In contrast, our business in LATAM was very weak during the quarter due to COVID. One of our largest customers across the region remains in a CapEx freeze, and other clients are coping with supply chain delays. We believe the situation is improving somewhat in LATAM and the budgets for 2021 will begin opening up already by the end of this year.
+The left market I'd like to discuss is the ISP market, which is benefiting strongly from the long time lines of 4G and 5G rollouts. Given the massive new demand for bandwidth stemming from COVID-stay-at-home directives, large population areas have been left with insufficient broadband. ISPs both national and regional and been rushing in to fill the demand especially in North America and to some extent in Europe and we fulfill that demand both directly and via some of our channels.
+To summarize, demand for network capacity has increased dramatically, leading to more 5G design wins, some of which have already translated into small orders. Continued large scale 4G expanding projects and increased ISP demand. At the same time, significant variability and uncertainty remains regarding the timing of planning, purchasing, network rollout, supplying shares factors as COVID dynamics move according to their own rhythms across the world. We remain extremely focused on execution in this uncertain environment, progressing on track with IP-50 platform development and moving strongly ahead with new 5G design wins, POCs and orders.
+I'll stop here and turn the call over to Ran to discuss our finances in more details. Ran.
+Ran Vered
+Thank you, Ira. Since you've all seen the press release, I'll focus on the highlights. As you can see, Q3 was a good quarter from a financial point of view. Our revenues were $17.6 million up 13% compared to the second quarter, and 26% compared to the first quarter of 2020. They were down just 2% compared with the third quarter of 2019. The revenues varied from region to region in line with the effect that COVID has had on local business operations and network build outlines.
+Our strongest revenue was from India reflecting ongoing deliveries for Bharti project and APAC. Revenues from North America and Europe were in line with expectations reflecting continued progress with ongoing projects primarily ISPs and small 5G projects in Europe. Africa had an exceptionally strong quarter reflecting shipments for the Orange Niger project we announced in August. As Ira discussed, LATAM made a very weak quarter with budgets and project frozen in the face of COVID-19 with only above 10% customer in the sales quota.
+In contrast to revenues, our book-to-bill ratio for the quarter was below 1. This resulted from the fact that some of our customers booked their orders earlier in the year, together with very low bookings across Latin America. Bookings in APAC were actually strong and bookings in North America, Europe, and India were stable. Overall, our accumulated book-to-bill ratio for the 9 months period is above 1.
+Gross profit for the quarter on a non-GAAP basis was $23.6 million, giving us a gross margin of 33.5%. This is our highest gross margin in over a year, compared with 26.5% last quarter, and certainly 2.2% for the third quarter of 2019. It reflects the return of our revenues to the normal range, together with approximately $1 million in import tax relief that was recorded during the quarter. Excluding this relief, the gross margin would still have been about 72% similar to Q3 last year, and stronger than it has been in the last three quarters. Our non-GAAP operating expenses for the third quarter was $19.9 million approximately $300,000 higher than they were in Q2 but down compared with pre-COVID and our projections. R&D was $7.3 million, $500,000 higher than Q2. The increase is due mainly to our progress into the final stages for our chip development as planned. In contrast, our sales and marketing expenses declined again during the quarter to $7.8 million. This is down about 18% from Q3 last year reflecting the reduced travel and variable compensation that have come with COVID.
+G&A for the quarter was $4.8 million in line with our expectations. For Q4, the expectation is for OpEx to increase to a level of $20.5 million to $22 million which is more in line with our normal pattern. In general, our operating expenses are higher for Q4 than for other quarters, reflecting higher variable compensation. In addition, we expect to continue accelerating our investment in cheap R&D during the first quarter, resulting in further increase of the R&D line. Financial expenses and other expenses was a bit lower than the normal expected level during the quarter. In fact, expenses for the quarter was below $200,000. Our focused execution which led to strong revenues, high gross margin and controlled OpEx combined with lower taxes gave us a strong net income. On a non-GAAP basis, we posted a $2.3 million net profit or $0.03 per diluted share. On a GAAP basis, we posted a net profit of $1.6 million or $0.02 per diluted share.
+Turning to the balance sheet, we continued working to improve stability and working capital and you can see our success in many parameters. We reduced our inventory by another $2 million during the quarter and are now with approximately $52 million down $22 million from our big five quarters ago. Our receivables are now at $108.4 million, down $10 million since the beginning of the year. Our DSO now stand at 152 days. For Q3 we had $4.5 million negative cash flow from operating and investing activities but for the 9 months period, we had $1.4 million in positive cash flow. In addition, we reduced our loans during the quarter helping to strengthen our balance sheet. Despite the long term challenges, we continued on schedule with our operations. With focused execution, we have been able to convert a large portion of our backlog developments, which will benefit us going forward. We continued on track with our major development programs to show that our future roadmap supports our design win efforts, supporting our target positioning as the strongest company in wireless hauling and the key to generating future revenues.
+Looking forward, we expect to see significant operating activities alongside continued uncertainty. If the world enters into a second or third wave with extensive lockdown, this will obviously impact our customers enough. For this reason, we're taking the cautious approach to our projection for Q4 with a bit wider range than usual $62 million to $75 million -- $69 million to $75 million.
+With that, I will now open the call for your questions. Operator?
+Question-and-Answer Session
+Operator
+Thank you. [Operator Instructions] Our first question will come from the line of Alex Henderson. Your line is open.
+AlexHenderson
+Thank you very much. A couple of questions if I could. So the range of guidance, I assume that the $69 million assumes there's further shutdowns and a worsening of the COVID environment. Can you talk a little bit about what you're assuming at the low end of the band and what you're assuming at the high end of the band?
+IraPalti
+When we look at that low end of the band we do assume some shutdowns mainly in Europe and other places and that in LATAM things won't open up during the quarter. At the high end, we assume that in all places where let's say some lockdowns, we would start seeing some releases in those areas. But it's very hard. Let's remember there's the large differences between deployments revenues, shipment revenues and bookings and COVID and lockdowns affect. By the way, they usually affect the bookings more on the revenues and the deployment because those in most places around the world, this can continue even under lockdowns.
+AlexHenderson
+I'm sorry. You're saying it affects the bookings more and but it does continue during lockdowns. It seems contradictory. We think the bookings would be more stable than the revenues under that scenario in the ability to install.
+IraPalti
+Yes, but because of the way we see sometimes the decision making within the operators slows down significantly under lockdown some of the decision-making while projects that are in place. In most places around the world, the lockdowns are such that we can at this point install -- walk and install [ph]; ship or walk and install [ph].
+AlexHenderson
+Okay. It sounds like then at the lower end of the band, you would expect your book to be below 1. Would it be reasonable to assume at the higher end of the band that you would expect your book-to-bill to be above 1?
+IraPalti
+Probably at 1.
+AlexHenderson
+Got it. Perfect. With respect to the '21 environment, obviously, there's been a lot of pressure this year. It's clearly going to be a question of whether we get vaccines and all that sort of stuff. Clearly a lot of unknowns. But it also seems like with your book-to-bill above 1 through the first nine months with a reasonable probability of some improvement in 5G deployments next year and continued strength in the new products, that you will be seeing a better environment and a better response to your products in that year. Can you talk a little bit about what you're thinking about for the full year? Obviously not looking for guidance, it's way premature for that. But some tonality to it would be very helpful. Thank you.
+IraPalti
+Okay. So if we look into 2021, it's very, very -- I'll start with the common very, very hard to forecast. We have done this exercise here internally because we're planning, it's the budget time, it's a lot of stuff. So from a budgeting perspective, we are focusing first and foremost internally on the activities we want to do in 2021 internally with customers, markets and where we want to go. Then playing around with the numbers on the back end, at this point, I still see very high variability on the numbers. If I take what I would say, the low ranges -- if I add up the low ranges that I'm getting from some of the regions and some of the activities and the high ends I'm getting up with almost ridiculously high range. We do expect that if the conditions do improve, and they expect it to improve, we'll probably we'll see a better year than 2020 into next year. That's based on exactly the same comments that you made. A little bit of 5G design wins in some places, opening up of some of the markets, continued deployment of 4G, which we'll end up with a year which is better than 2020. Probably -- we need to judge that also on a quarterly basis, probably at or above the run rate of the current quarter, or some of those that kind which is, as we said, we believe this quarter was a little bit more towards the normal.
+AlexHenderson
+So over that timeframe, would you expect your book to build to gradually improve as the momentum builds and looking out through the period into 2022 to 2023.
+IraPalti
+Yes.
+AlexHenderson
+Just a tactical question on the print. I was a little surprised to hear you say that the gross margin was impacted by a tax adjustment. That's not normally what I would assume happens. Does that happen again? Can you explain that a little bit and whether that's something that's going to happen again? What's going on?
+IraPalti
+I will let Ran explain.
+RanVered
+Hi, Alex. It's Ran. Thanks for the question. So it's more of a one-off. It's some kind of an import taxes that we have in Latin America the provision for it many years ago and now with some regulatory changes we seem to get it back; this is a one-time $1 million that improve the gross margin by 1.5%.
+AlexHenderson
+I see so there's no change in the tax rate going forward therefore, no permanent benefit to it?
+RanVered
+Correct. It's one time.
+AlexHenderson
+All right. I don't want to be a pig. So I'm going to let the next guy get their questions in. Thanks.
+Operator
+Thank you. Our next question comes from the line of Gunther Karger and your line is open.
+GuntherKarger
+Hello, can you hear me? First of all, congratulations on an excellent report. Secondly, the second is a question. We have a delay here. What I want to ask is this as any constraint regarding supplies given the international COVID situation? [Technical Difficulty]
+Operator
+One moment, please. Speakers, would you like to respond?
+IraPalti
+Okay. I'll respond to that. You asked about supply chain issues. In general, the supply chain is open at this point. We do not see significant issues around the supply chain. Although we do have once in a while here and there issues with some parts and operators but not significant. The place where it's more significant is that some of our supply chain is via air. And air shipments is still very, very expensive right now. Air shipments give very high priority for medical supplies and other things and it costs a little bit more. We do see an increase in supply chain cost within our gross margin because of the COVID as it happens.
+Operator
+[Operator Instructions] We will go to a follow-up from Alex Henderson. And your line is open.
+AlexHenderson
+Great, thank you very much. So a couple of things that I wanted to talk to the situation in India. Obviously, there's been some challenges associated with installations, there's been some challenges associated with getting qualifications. It does sound like some of that's starting to bleed off and it also sounds like there's a tremendous increase in traffic because I understand that the traffic growth in India has been running at 70% plus in each this year and last year. Considering they didn't spend very much in 2019 and were unable to spend much over the first two or three quarters of 2020, can you talk about what kind of demand -- pent up demand you might see there and how do you see that bottleneck breaking?
+IraPalti
+Okay. For India, I need to talk into two things. One is sometime towards beginning of August, a lot of the constraints in India on operating because of the lockdowns were lifted and since that time, we have a running full speed. We were planning on that. We're running full speed both in delivery of equipment and delivery in the field and doing installations. I do not see what you would call a pent up demand because in India mainly and I'll talk about some of the operators but mainly both Jio and Bharti continued moving ahead with the plans even under COVID. They were fully operational. We saw both the relevant bookings and we saw the relevant orders and the minute that everything was lifted up, we got a huge pressure to help and do the deployment. I do expect this to continue at the current run rate probably into first or maybe all of next year, as really they build up the network, there is a certain speed out there. The only big question mark is a customer of ours, which we haven't worked with for a while, which is Vodafone in India, which is going under significant changes. There you would say there is pent up demand because they have not been investing in the network for quite a while. And we're still waiting to see what would they do and how would they run their business moving forward.
+AlexHenderson
+Can you talk a little bit about the implications of the Huawei ban that's going on there and whether that changes the demand characteristics, particularly Vodafone, which I believe was predominantly a Huawei shop?
+IraPalti
+Vodafone was predominantly a Huawei shop but in my guess, because of the limitations in India, they'll have to choose other vendors. I think we're in a good position -- running position there but let's wait and see until they make their decisions. I think they have issues before that, which have to do with the financing and getting the financing in place and then I think we're in a good running position there.
+AlexHenderson
+Can you talk about what the share of Huawei has historically been in your category in that geography?
+IraPalti
+In India, the share of Huawei was somewhere around the 20%, 25%.
+AlexHenderson
+Do you think you'd pick up [indiscernible].
+IraPalti
+Yes, but we took some of that share already in Bharti. In doing it so there is things that needs to be picked up as well.
+AlexHenderson
+Okay, I've got the gist of that. Thank you. Going to the North American market, there's been some discussion about you getting some trials with some tier ones, in addition, T-Mobile/Sprint situation coming back on train. Now that's closed. Can you talk a little bit about what your thinking is in that geography?
+IraPalti
+In the U.S. market, we need to look at a few things. One is I mentioned on the call, we are in POCs with a Greenfield operator for the 5G network and POCs there. We did talk about the tier 1 trials, we are still in discussions with them and lab art files on the equipment. This is progressing slower than we wanted but it's progressing. The other things that we see in there is that again, with the COVID, it's slowing down decision making. It's much harder and I think I mentioned that both on the 5G, less on the 4G, when people need to do a lot of planning and all the employees are working from home things are doable and I see a lot of progress but some of the things are a little bit slower in there. One of the things that we saw we did expect T-Mo and Sprint to move much quicker this year. I think they're making very significant and very good progress around what we see from the very little viewpoint that we have on their integration and integration of the networks but it's still slower than what we expected at the beginning of the year before COVID.
+AlexHenderson
+I get the gist of that. That all make sense. Relative to the chip side of the business, can you talk about your partnership there and whether that's expanded? What are you seeing from the competition in response to losing both Huawei and other PAC key customers? So are you in a position now where you think you'll see merchant market peer chips start to develop or the competitive advantage that you see on those chips accelerating as a result of the lack of an available merchant chip with higher characteristics?
+IraPalti
+As much as we know today, there's no work and no plans for a merchant chipset out there from anyone, and that's to the best of our knowledge at this point. We do see and we continue to do with as you know, we had JV with NEC, which is using those technologies out there, and we continue to work very closely with them. These will tell will other people join our efforts around it or not.
+AlexHenderson
+So no change in status in that environment?
+IraPalti
+No change in status at this point in the environment.
+AlexHenderson
+Got it. Let me stop there and see if there's any other questions in queue.
+Operator
+Thank you. And with that, speakers, I'd like to turn it back over to you.
+Ira Palti
+Okay, so as we don't have any other questions, I'd like to put a few comments around closing remark. Despite today's uncertain environment, I think we're operating well. We're very focused on operating, taking advantage of both the short term trends and position to benefit strongly from the longer term opportunities as we move into 2021 and beyond. We would like to thank all of you for your interest, being with us and for those who are interested, we will be holding the next virtual RND tour so you can contact Osi and we'll schedule it out there. I'd like to thank you, and a good day, and for our friends in the U.S., Happy voting. Thank you.
+Operator
+Thank you and ladies and gentlemen, that does conclude your conference call for today. Thank you for your participation and for using AT&T executive teleconference service. You may now disconnect.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

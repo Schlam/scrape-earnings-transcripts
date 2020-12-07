@@ -1,0 +1,122 @@
+WidePoint Corporation (NYSEMKT:WYY) Q3 2020 Results Conference Call November 16, 2020  4:30 PM ET
+Company Participants
+Jin Kang - President and Chief Executive Officer
+Jason Holloway - Executive Vice President and Chief Sales and Marketing Officer
+Kellie Kim - Executive Vice President and Chief Financial Officer
+Conference Call Participants
+Michael Crawford - B. Riley Securities
+Operator
+Good afternoon. Welcome to WidePoint’s Third Quarter 2020 Earnings Conference Call. My name is Karen, and I will be your operator for today’s call.
+Joining us for today’s presentation are WidePoint’s President and CEO, Jin Kang; Executive Vice President and Chief Sales and Marketing Officer, Jason Holloway; and Executive Vice President and CFO, Kellie Kim. Following their remarks, we will open up the call for questions from WidePoint’s publishing analysts and major investors. If your questions were not taken today, and you would like additional information, please contact WidePoint’s Investor Relations team at wyy@gatewayir.com.
+Before we begin the call, I would like to provide WidePoint’s Safe Harbor Statement that includes cautions regarding forward-looking statements made during this call. The matters discussed in this conference call may include forward-looking statements regarding future events and the future performance of WidePoint corporation that involve risks and uncertainties that could cause actual results to differ materially from those anticipated. These risks and uncertainties are described in the Company’s Form 10-K filed with the Securities and Exchange Commission. Finally, I would like to remind everyone that this call will be made available for replay via a link in the Investor Relations section of the Company’s website at www.widepoint.com.
+Now I would like to turn the call over to WidePoint’s President and CEO, Mr. Jin Kang. Sir, please proceed.
+Jin Kang
+Thank you, operator, and good afternoon to everyone. Thank you for joining us today to review our financial results for the third quarter ended September 30, 2020. As you all know, we had high ambitions for this year, and as the financial results of the first six months of the year indicated, 2020 was lining up to be a banner year for WidePoint.
+Today, I’m pleased to report that the financial success of the first half of the year has continued through the third quarter. For the third quarter of 2020, our revenues increased 94% year-over-year to 57.5 million, largely driven by our increased work on the U.S. Census 2020 as well as expansions with other Federal Government customers.
+Perhaps, more impressive, our managed services revenue, which maintains approximately 50% gross margins, increased 38% year-over-year to 12.5 million. As a result of the increase in high margin revenue, we recognized net income of 1.1 million this quarter, which is almost five times the net income we recognized in all of fiscal year 2019.
+Our EBITDA increased 102% year-over-year to 1.6 million, and our adjusted EBITDA improved to 1.7 million for the third quarter of 2020. Additionally, our cash position increased to 11.4 million.
+While many of the financial improvements this year are driven by our major contracts, which we will provide updates on momentarily, the fact of the matter is, we will not be able to perform on those contracts if it were not for the incredible work of our dedicated personnel and the effective organizational structure that this management team began making more flexible and more efficient back in 2017.
+I will take this opportunity to thank our employees who have been working remotely and for all the hard work that they have put in to make this year what it is shaping up to be.
+WidePoint’s adaptability, which has been elucidated by our year-to-date accomplishments during the most challenging operating environment in recent memory, is among the key reasons we remain confident in our ability to continue improving this organization for the betterment of our customers and our shareholders.
+Overall, the theme of the third quarter are much in line with those of the first half of the year. Our government business remains incredibly stable. We continue to service some of the major agencies battling against the pandemic, including the U.S. Customs and Border Protection, the U.S. Department of Health and Human Services and the U.S. Army Corps of Engineers, who have been building emergency hospitals.
+Our organization remained well insulated from the negative impacts of COVID-19, and our products and services remain more in demand than ever before. Our services provide the IT infrastructure that allows a workforce to function remotely, and our IdM solution enables secure communications from these remote sites, both of which are paramount in today’s environment. For these reasons, Q3 was another successful quarter for WidePoint, and we see that trend continuing.
+With that context in mind, let’s turn our attention to some of the more pertinent projects driving our business in 2020 and setting us up for a strong 2021. Let’s begin with the Cellular Wireless Managed Services BPA contract for the U.S. Department of Homeland Security.
+This contract is scheduled to start on Wednesday, November 18. That means that we should be hearing back from DHS within the next few days. We have, of course, already submitted our proposal, and back in October, we presented our case as to why we believe WidePoint is better positioned than the competition to continue servicing the DHS.
+We have outlined the reasons for optimism on several of our previous earnings call. So I’m going to skip the explanation today. However, I will say that our optimism remains as strong as ever and for all the same reasons we have discussed before.
+We know our investors are anxious to hear the results. We will be sharing them as soon as we are notified by DHS, and in the meantime, we appreciate your continued patience. Our work on the 2020 Census continues to be the primary driver of our record financial performance this year, and our work on the project is progressing well.
+As a reminder, this is the single largest managed mobility services project in the country. We are in charge of delivering, managing and soon to be decommissioning approximately 700,000 devices for the Census Bureau.
+At this time, we expect the majority of this work to gradually decrease as we approach the end of the year, but there will be residual work that will continue through 2021 and completely end in October 2022.
+And as we have discussed, we expect to benefit from this project for many quarters and years to come as it proves WidePoint’s scalability and our ability to tackle large, more complex projects for prospective clients.
+I will also point out that the census project has been a bonus for our company, but by no means the only bright spot. We had material increases on our other contracts that will continue throughout this year and beyond.
+At this point, I’m going to turn the call over to Jason to provide an update on our sales and marketing initiatives. Afterwards, our CFO, Kellie Kim, will walk us through the financial results of the third quarter. Then I will return to discuss our expectations for the rest of the year and beyond and open the call to questions. Jason.
+Jason Holloway
+Thank you, Jin. As Jin mentioned, the story of the third quarter is continued success and increasing demand. We have been maintaining the high-quality service and effectively providing the valuable support that ensures so many of our clients renew with us, and we have been building upon our relationships with systems integrators as well as the momentum created by some of our more high-profile contracts to expand our reputation to achieve higher-margin business.
+On the past two calls, we have discussed the vendor agreement we have in place with SYNNEX, which continues to be a potentially large driver for our identity management business. Currently, we are conducting training sessions with SYNNEX resellers, who will be selling and issuing our IdM credentials. As we discussed on the last call, the pandemic did complicate the training process, but our team has done an excellent job, adapting to the circumstances, and the work here is progressing.
+We remain optimistic that our relationship with SYNNEX and the over 800-plus potential resellers they bring to the table, we will pay dividends for WidePoint as we all find new, more efficient ways of operating in the current environment and as the effects of the pandemic slowly dissipate.
+At the start of this month, we announced that we recorded 40 contractual actions in the third quarter, which cumulatively are worth more than $11 million. It is important to note that roughly $10 million of the $11 million was either new or new expansions. I’m also very excited to share that we also added a new identity management credentialing client as well.
+We are limited in what we can disclose about these contracts and our customers, but as you are all aware, our primary goal is to add higher-margin business to our books and IdM clients fall directly into this category.
+As Jin mentioned, the high-profile of the Census project makes it a powerful case study for prospective customers, but we have also been increasing our brand awareness by gaining recognition with industry thought leaders.
+This past quarter, WidePoint was recognized in the Gartner’s 2020 Market Guide for Telecom Expense Management Services. The Gartner Tim Market Guide is the definitive source for enterprise decision makers, which is why we are very excited to have been included for the market guide to note our enhanced security for both our platform and our team.
+One of the guides findings was that enterprises are looking for 10 providers to take on an increasing role in offering life cycle management services for end-user devices, and that is part of our bread and butter.
+Our Intelligent Telecommunications Management System, or ITMS, is our proprietary developed software platform that is the central nervous system of our managed services and encapsulates all functional components of our trusted mobility management.
+Regarding ITMS, we are looking to increase our equipment and accessories sales by 10% to 30%, which will increase our profits up to 25%. We also continue to explore additional recycling components as well.
+Each quarter, thanks to the value we create for our current customers and the number of new prospects who are beginning to recognize that value, we continue to land new business and to expand the relationships we have. We are confident we will be able to leverage the momentum generated this year to continue driving the business forward in the coming quarters and years.
+With that, I will hand the call over to Kellie.
+Kellie Kim
+Thank you, Jason. As noted in our earnings release, we continued many of the major trends from last quarter, producing record revenues, positive EBITDA and earning positive net income. Turning to our results for the third quarter ended September 30, 2020. Third quarter revenue was 57.5 million, up 94% from the 29.6 million reported for the same quarter last year.
+Carrier Services revenues increased 119% to 45 million from 20.6 million in the third quarter of last year. As a reminder, revenue from Carrier Services is very low margin revenue, and in the third quarter of 2020, it accounted for 78% of revenue compared to 69% in the third quarter of 2019.
+Managed services also increased by 38% to 12.5 million from nine million in the third quarter of last year. The increase in managed services was primarily due to expansions with existing government and commercial customers, increases in sales of accessories to government customers and increases in billable service fee revenue delivered through our partnerships with large systems integrators. These increases were partially offset by a decrease in reselling and other services due to the timing of product resale in the prior year.
+On a year-to-date basis, our total revenue was 152 million, up 106% from the 73.6 million of last year. For the first nine-months of 2020, Carrier Services revenues were 118.1 million or 78% of total revenue, and managed services revenues were 33.8 million or 22% of total revenue. This compares to Carrier Services of 48.9 million or 66% of total revenue, and managed services revenues of 24.7 million or 34% of total revenue in the first nine-months of last year.
+Year-over-year growth for both the quarter and nine-month period was primarily driven by increase in revenue from Carrier Services and managed services due to higher demand from existing customers.
+Our gross profit for the third quarter increased 30% to 5.6 million from 4.3 million in the third quarter of 2019. Gross margin was 9.8% in the third quarter compared to 14.6% last year. For the first nine-months of the year, our gross profit increased 24% to 50.6 million or 10.3% of total revenue from 12.6 million last year or 17.1% of total revenue.
+In both periods, the decrease in gross margin was driven by the increase in Carrier Services revenues previously discussed. In the third quarter 2020, operating expenses increased by 11% to 4.5 million from four million in the third quarter of last year. As a percentage of revenue, operating expenses amounted to 8% of revenue as compared to 14% in the third quarter of 2019.
+For the first nine-months of the year, our operating expenses increased by 9% to 13.1 million from 12 million. In both periods, the increase in SG&A expense reflects higher payroll cost, consistent with higher employee count to support the increased business, partially offset by reduced travel costs.
+Additionally, during the first nine-months of the invested approximately 1.7 million, similar to last year in product development to enhance our platform and portal integration. For the third quarter 2020, GAAP net income was 1.1 million, an improvement from net income of 184,000 in the third quarter of 2019. On a year-to-date basis, net income was two million, an improvement of more than six fold from 250,000 last year.
+On a non-GAAP basis, EBITDA for the third quarter 2020 was 1.6 million, more than doubled from 773,000 last year. For the nine-months ended September 30, 2020, EBITDA was 3.8 million, which compares to two million last year, an 84% improvement.
+Our non-GAAP adjusted EBITDA increased 82% to 1.7 million in the third quarter compared to 949,000 in the same period 2019. On a year-to-date basis, adjusted EBITDA was 4.4 million, up 69% compared to last year. Shifting to the balance sheet. We exited the quarter with 11.4 million in cash, net working capital of 7.8 million and approximately five million available to draw down on our credit facility.
+This completes my financial summary. For a more detailed analysis of our financial results, please reference our Form 10-Q, which was filed prior to this call. So with that, I would like to turn it back to Jin.
+Jin Kang
+Thank you, Kellie, and thank you, Jason. Clearly, 2020 continues to be an incredibly fruitful year for WidePoint. The demand for our solution has never been stronger, and we have never been better positioned than we are today. Thanks to our adaptability and the credibility that we are continuing to build by performing successfully on our large-scale mobility projects.
+For those reasons, we maintain our confidence that the one for 10 reverse split, which became effective on November 6th, will be beneficial to our organization in the long run as it opens the door for a greater number of institutions to become owners of WidePoint.
+I thank all of our investors who have provided feedback and engaged in dialogue during this process. Our conviction and the year-to-date financial results shows that this company has never been in a stronger position, and we are excited to be moving on to the next steps of WidePoint’s evolution.
+As we look to the end of the year, we are reiterating the increased guidance we provided at the end of October. We are maintaining our original revenue guidance of 185 million to 195 million. If we hit the midpoint of that range, our revenues will have increased 87% year-over-year.
+More importantly, we have added more higher-margin revenues than originally anticipated. As such, our new EBITDA guidance of 4.7 million to 4.9 million, which translates to 5.5 million to 5.7 million in adjusted EBITDA for 2020, would be a 69% increase over last year.
+Should we hit those numbers, there is no doubt we will be ending the year on a high note, and we intend to continue that momentum into 2021. Going into next year, our plans are to leverage both organic and inorganic means to scale our business.
+We will make capital investments to enhance our technical capabilities, making our solutions more attractive and more competitive, and we are going to invest in sales and marketing to improve our prospects of securing new business.
+We have already engaged a cyber security consulting firm to help us prepare for the FedRAMP certification, which will provide us with a unique competitive edge. We also have planned to expand our TLM capabilities in the near future. As we have mentioned before, we are also exploring acquisition opportunities. So far, we reviewed a number of targets that we could integrate both vertically and horizontally.
+At this time, we won’t be providing any specifics on these targets. However, I do want to remind our shareholders that should we move forward with any of these targets, we have the luxury of utilizing our cash first, then debt and equity, if necessary and beneficial. Please stay tuned for updates in the coming months for the aforementioned strategic initiatives.
+Though 2020 has been a volatile and challenging year for many, our excellent staff, flexible organizational structure and expanding suite of offerings that function as a solution for many of the problems faced by large government and commercial enterprises in today’s environment are resulting in a record year and giving us excellent momentum heading into 2021. Sufficed to say, the future is bright.
+With that covered, we are ready to take questions from our analysts and major shareholders. Operator, will you please open the call for questions?
+Question-and-Answer Session
+Operator
+Thank you. [Operator Instructions] We will take our first question from Mike Crawford with B. Riley.
+Michael Crawford
+Thanks and it is great to see the continued strength in the business. I do have a question on the managed services contract with DHS. So it is due in two days, but there seems to be a fairly good chance that could extend a little bit. So what would happen in that case and then maybe further, if by some really unexpected turn of events, you don’t actually get the recompete, you would be able - likely we had to continue to do in the existing given for what one year or year and half?
+Jin Kang
+Sure, Mike. Let me answer the first part of your question, it is a yes. The period of performance for the new contract is supposed to start on the November 18th. However, the government can extend that date or change that date with a modification to the acquisition. So it is up to them to do that.
+It is a very little concern for us because our contract with them currently goes out until April 29, 2021, and then our current contract has an option period of 6 months beyond that. So that puts us out at like October of 2021, and then any task orders issued at that time can go another 12-months beyond that. So altogether, it could go out until October of 2022.
+In the case that I hate to think that we won’t win it, but if that should happen, it will take some time to transition all of the task order and the work off to the new contractor, which is a very high-risk maneuver for DHS, and another reason why we think we are best placed to win this recompete. However, if that should come to pass, there will be a long transition cycle, maybe 12-months, maybe 18-months beyond that, and that will be all under our current contract.
+Michael Crawford
+Okay, thank you for clarifying that Jin. Also, just if I look at just your accounts receivable balances as disclosed in your 10-Q, I mean, it is predominantly government. Just two million commercial. Now I know, Jason, you are making great strides with SYNNEX you mentioned and CDW and others. But what milestones should we look for? What will it take to see more enterprise business come in to help keep this growth going on that front?
+Jin Kang
+Let me start off first, and then, Jason, if you can tag on to the back of that, that would be great.
+Jason Holloway
+Sure.
+Jin Kang
+Firstly, I don’t think the AR aging or the report is a good indication of how much business that we have. The reason is that a lot of our Federal Government contracts are fairly large. So in comparison, the commercial side looks a little small.
+Also, we have been reducing our DSO or the number of days outstanding for our invoices so the accounts receivable have been worked down significantly from the past. So it could be that you are seeing that difference, but in terms of milestone and our increases in our commercial business, we have been closing businesses there. Jason mentioned that we had with a new contract with the IdM Solution, and that is a commercial opportunity.
+And I will let Jason continue on with the rest of the answer. Go ahead, Jason.
+Jason Holloway
+Yes. Thank you, Jin. So Mike, the only thing I was going to add is, the pandemic on the commercial enterprise side is really where we have seen the impact. I’m really, really cautiously optimistic that as things start to get better with COVID-19 that we are going to see the uptick.
+I think all of the extraordinary work that we have done with our demand generation partner that we have along with all of the work that we have done with Gartner that it is really going to produce some very positive results.
+And again, the work that we are doing with SYNNEX as well is definitely going to bode well. So I would say that there is going to be, again, some good announcements that are coming. And all I can say is stay tuned, and I’m excited about it.
+Michael Crawford
+Okay, great. Thank you very much.
+Jin Kang
+Okay.
+Operator
+[Operator Instructions] At this time, this will conclude our question-and-answer session. If your question was not taken, please contact WidePoint’s IR team at wyy@gatewayir.com. I would now like to turn the call back over to Mr. Jin Kang for his closing remarks.
+Jin Kang
+Thank you, operator, and pretty silent crowd today, but we appreciate everyone taking the time to join us today. As the operator mentioned, if there were any questions that we did not address today, please contact our IR team. You can find their full contact information at the bottom of today’s earnings release. Thank you again, and have a great evening.
+Operator
+Thank you for joining us today for WidePoint’s Third Quarter 2020 Conference Call. You may now disconnect, and have a great day.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

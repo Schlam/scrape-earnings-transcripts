@@ -1,7 +1,7 @@
 from splinter import Browser
 from bs4 import BeautifulSoup as Soup
-from time import sleep
 from datetime import datetime
+from time import sleep
 import requests 
 import os
 
@@ -124,20 +124,20 @@ def get_dates(urls):
 def get_filenames(symbols,dates):
     """
     
-    Generate names for .txt file using the date and symbol
+    Create folder structure and generate filenames using 
+    the date and symbol for each relevant ticker
     
     """
 
-    # Get todays date
-    date = str(datetime.today())\
-        .split()[0]
+    # Get date and time of when scraping was performed
+    datetime_dir = str(datetime.today())
 
-    # Make directory for today's date
-    os.mkdir(f'transcripts/{SECTOR}/{date}')
+    # Make directory for this scraping instance
+    os.mkdir(f'transcripts/{SECTOR}/{datetime_dir}')
 
-    # Get filenames
+    # Get filenames for each text file
     filenames = [
-        f"transcripts/{SECTOR}/{date}/{symbol}_{date}.txt"
+        f"transcripts/{SECTOR}/{datetime_dir}/{symbol}_{date}.txt"
         for symbol, date in zip(symbols, dates)
     ]
 
@@ -157,18 +157,21 @@ def get_transcript(url, browser):
     """
     # Visit url, wait for page to load
     browser.visit(url)
-    sleep(1)
+    sleep(1.5)
     
     try:
-    # Attempt to click 'Single page view' link
+
+        # Attempt to click 'Single page view' link
         browser.links\
             .find_by_partial_text('Single page view')\
                 .click()
+        
         # wait for page to load
         sleep(1)
 
     except Exception as e:
         
+        print(f"{type(e)}: {e}")
         print("'Single page view' link not present on webpage, moving on")
 
 
@@ -179,7 +182,7 @@ def get_transcript(url, browser):
     # Join text from each paragraph element
     text = '\n'.join([
         element.get_text() for element in 
-        content.find_all('p', class_='p1')])
+        content.find_all('p')])
     
     return text
 

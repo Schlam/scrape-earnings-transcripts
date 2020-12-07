@@ -17,12 +17,12 @@ The file collection shows how the transcript dialogue is formatted, but contains
 ##### Using this script is very straightforward:
 
 
-On the command line, type ```python scrape_alpha.py``` and hit enter
+On the command line, type ```python scrape.py``` and hit enter
 
 If desired, you can change the ```SECTOR``` at the top of the code to match any of the following:
   
     - 'all' (contains transcripts from public companies around the world)
-    - 'popular' (default option)
+    - 'most-popular' (default option)
     - 'basic-materials'
     - 'conglomerates'
     - 'consumer-goods'
