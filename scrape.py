@@ -130,14 +130,15 @@ def get_filenames(symbols,dates):
     """
 
     # Get date and time of when scraping was performed
-    datetime_dir = str(datetime.today())
+    # datetime_dir = str(datetime.today())
 
     # Make directory for this scraping instance
-    os.mkdir(f'transcripts/{SECTOR}/{datetime_dir}')
+    # os.mkdir(f'transcripts/{SECTOR}/{datetime_dir}')
 
     # Get filenames for each text file
     filenames = [
-        f"transcripts/{SECTOR}/{datetime_dir}/{symbol}_{date}.txt"
+        # f"transcripts/{SECTOR}/{datetime_dir}/{symbol}_{date}.txt"
+        f"transcripts/{SECTOR}/{symbol}_{date}.txt"
         for symbol, date in zip(symbols, dates)
     ]
 
